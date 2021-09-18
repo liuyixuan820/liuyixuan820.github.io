@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: [Affiliations](https://honglizhan.github.io/resume/){:target="\_blank"}. Address. Contacts. Moto. Etc.
+description:  <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
