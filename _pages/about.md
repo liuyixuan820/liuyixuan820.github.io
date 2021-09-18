@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>(https://github.com/honglizhan/honglizhan.github.io/raw/master/assets/pdf/CV-Hongli%20Zhan%20updated%20Sep%2018%202021.pdf). Address. Contacts. Moto. Etc.
+description: <a href="#">Affiliations</a>(https://github.com/honglizhan/honglizhan.github.io/raw/master/assets/pdf/CV-Hongli%20Zhan%20updated%20Sep%2018%202021.pdf){:target="\_blank"}. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
