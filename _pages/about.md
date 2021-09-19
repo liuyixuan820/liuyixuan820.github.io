@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: honglizhan@utexas.edu
+description: <a href="honglizhan@utexas.edu">honglizhan@utexas.edu</a>
 
 profile:
   align: right
