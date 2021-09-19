@@ -20,6 +20,6 @@ I am a 1st year Ph.D. student in Computational Linguistics at <a href="https://w
 
 Previously, I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>.
 
-**Honors and Awards**:
-**Outstanding Graduate**, Shanghai Jiao Tong University, 2021
+**Honors and Awards**:<br />
+**Outstanding Graduate**, Shanghai Jiao Tong University, 2021<br />
 **Outstanding Undergraduate Graduation Thesis Award**, School of Foreign Languages, Shanghai Jiao Tong University, 2021
