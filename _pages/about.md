@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>honglizhan@utexas.edu</p>
+    <p>honglizhan AT utexas DOT edu</p>
 
 
 news: false # includes a list of news items
