@@ -1,9 +1,8 @@
 ---
 layout: page
-title: <a href="/assets/pdf/CV-Hongli Zhan updated Sep 18 2021.pdf" class="image fit">CV<a>
+title: CV
 permalink: /CV/
-description: 
+description: CV
 nav: true
-display_categories: 
 horizontal: false
 ---
