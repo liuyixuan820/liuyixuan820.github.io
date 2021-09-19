@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-description:  false <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:  <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: false >
+  address: >
     <p>Office: 305 E 23rd St</p>
     <p>Austin, TX 78712</p>
 
