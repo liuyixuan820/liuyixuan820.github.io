@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: honglizhan AT utexas DOT edu
+description: **honglizhan AT utexas DOT edu**
 
 profile:
   align: right
