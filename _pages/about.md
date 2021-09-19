@@ -8,15 +8,14 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Office: 305 E 23rd St</p>
-    <p>Austin, TX 78712</p>
+    <p></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 1st year Ph.D. student in Computational Linguistics at the University of Texas at Austin, advised by Jessy Li.
+I am a 1st year Ph.D. student in Computational Linguistics at the University of Texas at Austin, advised by Professor Jessy Li.
 
 Previously, I received my B.A. in Linguistics from Shanghai Jiao Tong University.
 
