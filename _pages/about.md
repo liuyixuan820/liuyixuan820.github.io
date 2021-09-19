@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: <a href="honglizhan@utexas.edu">honglizhan@utexas.edu</a>
+description: 
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p></p>
+    <p>honglizhan@utexas.edu</p>
     <p></p>
     <p></p>
 
