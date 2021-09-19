@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: 
+description: **honglizhan AT utexas DOT edu**
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>honglizhan AT utexas DOT edu</p>
+    <p></p>
 
 
 news: false # includes a list of news items
