@@ -6,5 +6,6 @@ description:
 nav: true
 ---
 
-**Teaching Assistant**, LIN350 Computational Semantics, Fall 2021\n
+**Teaching Assistant**, LIN350 Computational Semantics, Fall 2021  
+
 The University of Texas at Austin, Supervisor: Professor Katrin Erk
