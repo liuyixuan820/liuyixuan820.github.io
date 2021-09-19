@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: false >
-    <p>305 E 23rd St</p>
+    <p>Office: 305 E 23rd St</p>
     <p>Austin, TX 78712</p>
 
 news: false # includes a list of news items
