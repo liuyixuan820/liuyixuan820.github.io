@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p></p>
+    <p>Office: RLP 4.400, E4</p>
 
 
 news: false # includes a list of news items
