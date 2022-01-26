@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: About
 title: About
 permalink: /
 description: honglizhan@utexas.edu
