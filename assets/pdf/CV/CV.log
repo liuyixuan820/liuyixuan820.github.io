@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.8)  10 FEB 2022 12:01
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.11.8)  22 FEB 2022 13:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -560,7 +560,7 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  14796 strings out of 476919
  264145 string characters out of 5825424
- 666975 words of memory out of 5000000
+ 667975 words of memory out of 5000000
  34546 multiletter control sequences out of 15000+600000
  407381 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
