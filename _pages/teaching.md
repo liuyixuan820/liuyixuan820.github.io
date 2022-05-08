@@ -6,4 +6,4 @@ description:
 nav: true
 ---
 
-**Teaching Assistant**, UT Austin <a href="https://www.katrinerk.com/courses/lin350-computational-semantics">LIN350 Computational Semantics</a>, Fall 2021
+**Teaching Assistant**, UT Austin <a href="https://www.katrinerk.com/courses/lin350-computational-semantics">LIN 350 Computational Semantics</a>, Fall 2021
