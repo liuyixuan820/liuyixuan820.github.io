@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Office: RLP 4.400, E4</p>
+    <p><a href="https://www.nlp.utexas.edu/">UT Austin NLP</a></p>
 
 
 news: True # includes a list of news items
