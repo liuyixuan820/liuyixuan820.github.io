@@ -27,7 +27,13 @@ I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shangha
         <tr>
           <th scope="row">2017 - 2021</th>
           <td>
-              {{ item.content | Ph.D. The University of Texas at Austin }}
+              *Ph.D.*, The University of Texas at Austin
+          </td>
+        </tr>
+        <tr>
+          <th scope="row">2021 - Present</th>
+          <td>
+              *B.A.*, Shanghai Jiao Tong University
           </td>
         </tr>
       </table>
