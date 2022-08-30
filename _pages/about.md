@@ -20,6 +20,7 @@ I am a 2nd year Ph.D. student in Computational Linguistics at <a href="https://w
 
 I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2021.
 
+<! -- 
 <div class="education">
   <h2>Education</h2>
     <div class="table-responsive">
@@ -37,3 +38,4 @@ I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shangha
       </table>
     </div>
 </div>
+-->
