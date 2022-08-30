@@ -25,7 +25,7 @@ I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shangha
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
         <tr>
-          <th scope="row">2017 - 2021</th>
+          <tl scope="row">2017 - 2021</tl>
           <td>
               <em>Ph.D.</em>, The University of Texas at Austin
           </td>
