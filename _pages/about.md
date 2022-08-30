@@ -25,7 +25,7 @@ I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shangha
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
         <tr>
-          <th scope="row">{{ item.date | date: 2017 - 2021 }}</th>
+          <th scope="row">2017 - 2021</th>
           <td>
               {{ item.content | Ph.D. The University of Texas at Austin }}
           </td>
