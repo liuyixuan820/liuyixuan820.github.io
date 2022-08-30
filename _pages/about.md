@@ -25,12 +25,12 @@ I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shangha
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
         <tr>
-          <td scope="row">2017 - 2021</td>
+          <td scope="row">2021 - Present</td>
           <td>Ph.D. in Computational Linguistics</td>
           <td>The University of Texas at Austin</td>
         </tr>
         <tr>
-          <td scope="row">2021 - Present</td>
+          <td scope="row">2017 - 2021</td>
           <td>B.A. in Linguistics</td>
           <td>Shanghai Jiao Tong University</td>
         </tr>
