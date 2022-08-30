@@ -20,9 +20,16 @@ I am a 2nd year Ph.D. student in Computational Linguistics at <a href="https://w
 
 I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2021.
 
-<p>
-### Education
-
-2021 - Present &emsp; Ph.D., The University of Texas at Austin
-
-2017 - 2021 &emsp; B.A., Shanghai Jiao Tong University
+<div class="education">
+  <h2>Education</h2>
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        <tr>
+          <th scope="row">{{ item.date | date: 2017 - 2021 }}</th>
+          <td>
+              {{ item.content | Ph.D. The University of Texas at Austin }}
+          </td>
+        </tr>
+      </table>
+    </div>
+</div>
