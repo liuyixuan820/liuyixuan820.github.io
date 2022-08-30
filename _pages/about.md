@@ -33,7 +33,7 @@ I received my B.A. in Linguistics from <a href="https://en.sjtu.edu.cn/">Shangha
         <tr>
           <th scope="row">2021 - Present</th>
           <td>
-              _B.A._, Shanghai Jiao Tong University
+              <em>B.A.</em>c, Shanghai Jiao Tong University
           </td>
         </tr>
       </table>
