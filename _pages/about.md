@@ -10,8 +10,8 @@ profile:
   address: >
     <p>Office: RLP 4.400, E4</p>
 
-news: True # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+news: True # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
