@@ -2,7 +2,7 @@
 layout: page
 title: Personal Life
 permalink: /life/
-description: My everyday life.
+description: 
 nav: true
 display_categories: [fun]
 horizontal: false
