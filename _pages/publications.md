@@ -8,7 +8,9 @@ nav: true
 ---
 
 <div class="publications">
+
 \* Denotes equal contributions.
+
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
