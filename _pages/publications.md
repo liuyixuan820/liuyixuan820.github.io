@@ -6,10 +6,9 @@ description:
 years: [2022]
 nav: true
 ---
+\* Denotes equal contributions.
 
 <div class="publications">
-
-\* Denotes equal contributions.
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
