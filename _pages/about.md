@@ -21,8 +21,8 @@ I received my B.A. in Linguistics as an outstanding graduate from <a href="https
 
 <h2>Education</h2>
 
-<font size="4.5">
-<ul style="line-height:2;">
+<font size="4">
+<ul style="line-height:1.5;">
   <li><b><i>Ph.D.</i></b> in Computational Linguistics (Minor in Computer Science)</li>
   &emsp;&emsp;2021 &#8211; Present, The University of Texas at Austin<br>
   &emsp;&emsp;Advisor: Professor Junyi Jessy Li
