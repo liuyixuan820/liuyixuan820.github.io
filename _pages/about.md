@@ -24,9 +24,9 @@ I received my B.A. in Linguistics as an outstanding graduate from <a href="https
 <font size="3">
 <ul style="line-height:1.5;">
   <li><b><i>Ph.D.</i></b> in Computational Linguistics (Minor in Computer Science)</li>
-  &emsp;&emsp;2021 &#8211; Present, The University of Texas at Austin<br>
-  &emsp;&emsp;Advisor: Professor Junyi Jessy Li
+  &emsp;&emsp;2021 &#8211; Present, <a href="https://www.utexas.edu/">The University of Texas at Austin</a><br>
+  &emsp;&emsp;Advisor: <a href="https://jessyli.com/">Professor Junyi Jessy Li</a>
   <li><b><i>B.A.</i></b> in Linguistics (Double Major in Law)</li>
-  &emsp;&emsp;2017 &#8211; 2021, Shanghai Jiao Tong University
+  &emsp;&emsp;2017 &#8211; 2021, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
 </ul>
 </font>
