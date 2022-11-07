@@ -27,5 +27,5 @@ I received my B.A. in Linguistics as an outstanding graduate from <a href="https
     <br>Advisor: <a href="https://jessyli.com/">Professor Junyi Jessy Li</a>
     <li><b><i>B.A.</i></b> in Linguistics (Double Major in Law)</li>
     2017 &#8211; 2021, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
-    <br>Advisors: <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Professor WANG Zhenhua</a>, <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Professor ZHEN Fengchao</a>, and <a href="https://sfl.sjtu.edu.cn/Data/View/1814">Professor GUAN Xinchao</a>
+    <!--<br>Advisors: <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Professor WANG Zhenhua</a>, <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Professor ZHEN Fengchao</a>, and <a href="https://sfl.sjtu.edu.cn/Data/View/1814">Professor GUAN Xinchao</a>-->
 </ul>
