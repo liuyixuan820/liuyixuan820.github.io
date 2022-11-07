@@ -10,7 +10,13 @@ horizontal: false
 
 ---
 
-In my free time, I enjoy playing the cello. I’ve been practicing the instrument since I was 4. I was first tutored by <a href="https://baike.baidu.com/item/%E8%8B%8F%E5%8A%9B/20348800">Professor SU Li (苏力)</a> at Xiamen University, who enlightened me to the cello and music. Later, I was tutored by <a href="https://mdc.hqu.edu.cn/info/1037/2570.htm">Professor WANG Miao (王淼)</a> at Huaqiao University. During my 6 years of primary education at <a href="https://zh.m.wikipedia.org/zh-hans/%E5%8E%A6%E9%97%A8%E5%B8%82%E9%9F%B3%E4%B9%90%E5%AD%A6%E6%A0%A1">Xiamen Music School</a>, I've won many awards, including the 
+Born on the <a href="https://en.wikipedia.org/wiki/Gulangyu">Gulang Island</a> in 1998, I was immersed in music growing up. I’ve learned to play the cello since the age of 4. <a href="https://baike.baidu.com/item/%E8%8B%8F%E5%8A%9B/20348800">Professor SU Li (苏力)</a> at Xiamen University enlightened me to the world of cello and tutored me for several years. Later, I was tutored by <a href="https://mdc.hqu.edu.cn/info/1037/2570.htm">Professor WANG Miao (王淼)</a> at Huaqiao University. During my 6 years of primary education at <a href="https://zh.m.wikipedia.org/zh-hans/%E5%8E%A6%E9%97%A8%E5%B8%82%E9%9F%B3%E4%B9%90%E5%AD%A6%E6%A0%A1">Xiamen Music School</a>, I've won many awards at cello competitions, including:
+
+&#8226; The third prize at the 2nd Ai Qin Bei International Cello Competition (第二届全国爱琴杯大提琴比赛独奏组三等奖), Beijing, China, 2006;
+
+&#8226; Excellence Award & Best Performance Award at the 6th Asia Future Stars Music Competition (第六届亚洲明日之星音乐大赛优秀奖、最佳作品表演奖), Singapore, 2007.
+
+Though not proficient, I've also learned to play the piano in primary school.
 
 I was also a member of
 
