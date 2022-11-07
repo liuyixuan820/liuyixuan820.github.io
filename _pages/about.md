@@ -19,12 +19,13 @@ I am a 2nd year Ph.D. student in Computational Linguistics at <a href="https://w
 
 I received my B.A. in Linguistics as an outstanding graduate from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2021.
 
-<!--
 <h2>Education</h2>
 
-&#8226; <b><i>Ph.D.</i></b> in Computational Linguistics (Minor in Computer Science)<br>
-&emsp;2021 &#8211; Present, <a href="https://www.utexas.edu/">The University of Texas at Austin</a><br>
-&emsp;Advisor: <a href="https://jessyli.com/">Professor Junyi Jessy Li</a><br>
-&#8226; <b><i>B.A.</i></b> in Linguistics (Double Major in Law)<br>
-&emsp;2017 &#8211; 2021, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
--->
+<ul>
+    <li><b><i>Ph.D.</i></b> in Computational Linguistics (Minor in Computer Science)</li>
+    2021 &#8211; Present, <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
+    Advisor: <a href="https://jessyli.com/">Professor Junyi Jessy Li</a>
+    <li><b><i>B.A.</i></b> in Linguistics (Double Major in Law)</li>
+    2017 &#8211; 2021, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
+    Advisor: <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Professor WANG Zhenhua</a> and <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Professor ZHEN Fengchao</a>
+</ul>
