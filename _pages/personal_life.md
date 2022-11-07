@@ -14,7 +14,7 @@ Born on the <a href="https://en.wikipedia.org/wiki/Gulangyu">Gulang Island</a> i
 
 <ul>
    <li><i>The Third Prize</i> at the 2nd Ai Qin Bei National Cello Competition (第二届全国爱琴杯大提琴比赛独奏组三等奖), Beijing, China, 2006;</li>
-   <li><i>The Excellence Award</i> & <i>Best Performance Award</i> at the 6th Asia Future Stars Music Competition (第六届亚洲明日之星音乐大赛优秀奖、最佳作品表演奖), Singapore, 2007.</li>
+   <li><i>The Excellence Award</i> & <i>The Best Performance Award</i> at the 6th Asia Future Stars Music Competition (第六届亚洲明日之星音乐大赛优秀奖、最佳作品表演奖), Singapore, 2007.</li>
 </ul>
 
 Growing up, I have been a member of numerous orchestras, including:
