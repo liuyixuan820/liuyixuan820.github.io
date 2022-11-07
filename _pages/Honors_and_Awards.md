@@ -7,6 +7,8 @@ nav: true
 ---
 
 <ul>
-   <li><b>Outstanding Graduate</b>, Shanghai Jiao Tong University, 2021</li>
-   <li><b>Outstanding Undergraduate Graduation Thesis Award</b>, School of Foreign Languages, Shanghai Jiao Tong University, 2021</li>
+   <li><b>Outstanding Graduate</b>, 2021</li>
+   Shanghai Jiao Tong University
+   <li><b>Outstanding Undergraduate Graduation Thesis Award</b>, 2021</li>
+   School of Foreign Languages, Shanghai Jiao Tong University
 </ul>
