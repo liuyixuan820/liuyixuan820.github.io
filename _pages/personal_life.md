@@ -20,6 +20,7 @@ Born on the <a href="https://en.wikipedia.org/wiki/Gulangyu">Gulang Island</a> i
 Growing up, I have been a member of numerous orchestras, including:
 
 <ul>
+   <li>Xiamen Music School Orchestra;</li>
    <li>Xiamen Primary and Middle School Students' Orchestra;</li>
    <li><a href="https://baike.baidu.com/item/%E5%8E%A6%E9%97%A8%E5%A4%96%E5%9B%BD%E8%AF%AD%E5%AD%A6%E6%A0%A1/2337186">Xiamen Foreign Language School</a> Orchestra, directed by <a href="http://xm.fjsen.com/wap/2018-04/27/content_20981060_all.htm">WU Mingfang</a>. Together, we won the <i>First Prize</i> at the 4th National Primary and Middle School Students' Music Competition (全国第四届中小学生艺术展演器乐中学甲组一等奖);</li>
    <li>Shanghai Jiao Tong University Rong Chang Orchestra (<a href="https://space.bilibili.com/205949520/">上交荣昶中西乐团</a>).</li>
