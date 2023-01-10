@@ -16,6 +16,8 @@ nav: true
 <h2>Research Appointments</h2>
 
 <ul>
+   <li><b>Research Assistant</b>, UT Austin, Spring 2023</li>
+   Supervisor: <a href="https://jessyli.com/">Professor Junyi Jessy Li</a>
    <li><b>Research Assistant</b>, UT Austin, Spring 2022</li>
    Supervisor: <a href="https://jessyli.com/">Professor Junyi Jessy Li</a>
 </ul>
