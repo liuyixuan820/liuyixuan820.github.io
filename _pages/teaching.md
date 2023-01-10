@@ -21,3 +21,10 @@ nav: true
    <li><b>Research Assistant</b>, UT Austin, Spring 2022</li>
    Supervisor: <a href="https://jessyli.com/">Professor Junyi Jessy Li</a>
 </ul>
+
+<h2>Professional Service</h2>
+
+<ul>
+   <li><b>Organizer</b>, Natural Language Learning Reading Group, Spring 2023</li>
+   <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
+</ul>
