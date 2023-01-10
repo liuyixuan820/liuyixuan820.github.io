@@ -25,6 +25,6 @@ nav: true
 <h2>Professional Service</h2>
 
 <ul>
-   <li><b>Organizer</b>, Natural Language Learning Reading Group, Spring 2023</li>
+   <li><b>Organizer</b>, <a href="https://honglizhan.github.io/NLL/">Natural Language Learning Reading Group</a>, Spring 2023</li>
    <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
 </ul>
