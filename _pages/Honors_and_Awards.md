@@ -7,6 +7,8 @@ nav: true
 ---
 
 <ul>
+   <li><b>Professional Development Award</b>, Fall 2022</li>
+   1,000 USD
    <li><b>COLA Supplemental Graduate School Fellowship</b>, Spring 2022</li>
    5,000 USD
    <li><b>Outstanding Graduate</b>, 2021</li>
