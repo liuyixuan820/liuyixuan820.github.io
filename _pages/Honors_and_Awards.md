@@ -8,9 +8,9 @@ nav: true
 
 <ul>
    <li><b>Professional Development Award</b>, Fall 2022</li>
-   1,000 USD
+   <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, 1,000 USD
    <li><b>COLA Supplemental Graduate School Fellowship</b>, Spring 2022</li>
-   5,000 USD
+   <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, 5,000 USD
    <li><b>Outstanding Graduate</b>, 2021</li>
    <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
    <li><b>Outstanding Undergraduate Graduation Thesis Award</b>, 2021</li>
