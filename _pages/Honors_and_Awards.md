@@ -7,7 +7,7 @@ nav: true
 ---
 
 <ul>
-   <li><b>Professional Development Award</b>, Fall 2022</li>
+   <li><b>Professional Development Award for Attending EMNLP 2022</b>, Fall 2022</li>
    <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, 1,200 USD
    <li><b>COLA Supplemental Graduate School Fellowship</b>, Spring 2022</li>
    <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, 5,000 USD
