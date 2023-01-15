@@ -24,15 +24,14 @@ layout: default
       {% endif %}
     </div>
     {% endif %}
-
-    
-    {% if page.selected_papers %}
-    {% include selected_papers.html %}
-    {% endif %}
     
     <div class="clearfix">
       {{ content }}
     </div>
+    
+    {% if page.selected_papers %}
+    {% include selected_papers.html %}
+    {% endif %}
     
     {% if page.news %}
     {% include news.html %}

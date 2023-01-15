@@ -3,7 +3,7 @@ layout: page
 permalink: /honors_and_awards/
 title: Honors and Awards
 description: 
-nav: true
+nav: false
 ---
 
 <ul>
