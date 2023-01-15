@@ -28,7 +28,7 @@ I received my B.A. in Linguistics as an outstanding graduate from <a href="https
     <li><b><i>B.A.</i></b> in Linguistics (Double Major in Law)</li>
     2017 &#8211; 2021, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
 </ul>
-<br/><br/>
+<br/>
 
 <!--- SECTION BREAK -->
 <h2>Teaching</h2>
@@ -40,6 +40,7 @@ I received my B.A. in Linguistics as an outstanding graduate from <a href="https
    <li><b>Teaching Assistant</b>, UT Austin <a href="https://www.katrinerk.com/courses/lin350-computational-semantics">LIN 350 Computational Semantics</a>, Fall 2021</li>
    Supervisor: Professor <a href="https://www.katrinerk.com/">Katrin Erk</a>
 </ul>
+<br/>
 
 <!--- SECTION BREAK -->
 <h2>Research Appointments</h2>
@@ -49,7 +50,7 @@ I received my B.A. in Linguistics as an outstanding graduate from <a href="https
    <li><b>Research Assistant</b>, UT Austin, Spring 2022</li>
    Supervisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
 </ul>
-<br/><br/>
+<br/>
 
 <!--- SECTION BREAK -->
 <h2>Professional Service</h2>
@@ -57,7 +58,7 @@ I received my B.A. in Linguistics as an outstanding graduate from <a href="https
    <li><b>Organizer</b>, <a href="https://honglizhan.github.io/NLL/">Natural Language Learning Reading Group</a>, Spring 2023</li>
    The University of Texas at Austin
 </ul>
-<br/><br/>
+<br/>
 
 <!--- SECTION BREAK -->
 <h2>Honors and Awards</h2>
