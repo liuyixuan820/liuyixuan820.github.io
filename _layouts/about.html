@@ -25,18 +25,19 @@ layout: default
     </div>
     {% endif %}
 
+    
+    {% if page.selected_papers %}
+    {% include selected_papers.html %}
+    {% endif %}
+    
     <div class="clearfix">
       {{ content }}
     </div>
-
-    {% if page.selected_papers %}
-      {% include selected_papers.html %}
-    {% endif %}
-
+    
     {% if page.news %}
-      {% include news.html %}
+    {% include news.html %}
     {% endif %}
-
+    
 
     {% if page.social %}
     <div class="social">
