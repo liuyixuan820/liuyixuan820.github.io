@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>Office: RLP 4.400, E4</p>
+    <p>Photo taken at the presentation for my first paper accepted to EMNLP 2022</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 news: True # includes a list of news items
