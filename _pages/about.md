@@ -19,4 +19,4 @@ I am a 2nd year Ph.D. student in Computational Linguistics at <a href="https://w
 
 I received my B.A. in Linguistics as an outstanding graduate from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2021.
 
-You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Profile photo was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
+You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf). The profile photo here was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
