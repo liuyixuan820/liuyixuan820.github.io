@@ -4,7 +4,7 @@
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       {% assign media_coverage = site.media | reverse %}
-      {% for item in news limit: site.news_limit %}
+      {% for item in media limit: site.news_limit %}
         <tr>
           <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
           <td>
