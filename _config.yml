@@ -95,11 +95,6 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  media_coverage:
-    defaults:
-      layout: post
-    output: true
-    permalink: /media/:path/
   projects:
     output: true
     permalink: /projects/:path/
