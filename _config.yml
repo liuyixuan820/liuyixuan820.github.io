@@ -95,11 +95,16 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  media_coverage:
+    defaults:
+      layout: post
+    output: true
+    permalink: /media_coverage/:path/
   projects:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
