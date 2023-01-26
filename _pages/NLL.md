@@ -12,10 +12,9 @@ This semester, we will focus on recent papers in NLP. At each meeting, one stude
 The meetings are held bi-weekly on Mondays 11:00 AM - 12:00 PM, starting from Jan 23rd. The meetings will be in hybrid, both at GDC 3.516 and via <a href="https://utexas.zoom.us/j/2413159498">Zoom</a>.
 
 <ul>
-   <li><b>Jan 23rd, 2023</b></li>, Hongli will lead the paper discussions
-   <a href="https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.14.pdf">Interpreting Language Models with Contrastive Explanations</a>, EMNLP 2022<br>
+   <li><b>Jan 23rd, 2023</b>, Hongli will lead the paper discussions</li>
+   <a href="https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.14.pdf">Interpreting Language Models with Contrastive Explanations</a>, EMNLP 2022
 
-
-   <li><b>Feb 6th, 2023</b></li>, Hongli will lead the paper discussions
-   <a href="https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.248.pdf">Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs</a>, EMNLP 2022<br>
+   <li><b>Feb 6th, 2023</b>, Hongli will lead the paper discussions</li>
+   <a href="https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.248.pdf">Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs</a>, EMNLP 2022
 </ul>
