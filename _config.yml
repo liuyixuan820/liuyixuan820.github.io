@@ -99,7 +99,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /media_coverage/:path/
+    permalink: /media/:path/
   projects:
     output: true
     permalink: /projects/:path/
