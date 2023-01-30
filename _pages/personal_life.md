@@ -10,7 +10,7 @@ horizontal: false
 
 ---
 
-<img align="right" height="auto" width="200" style="border-radius:50%" src="https://user-images.githubusercontent.com/90797701/215368225-cb068113-919e-4d91-a7ff-d521dcf230f8.jpg">
+<img align="right" height="auto" width="300" style="border-radius:50%" src="https://user-images.githubusercontent.com/90797701/215368225-cb068113-919e-4d91-a7ff-d521dcf230f8.jpg">
 
 Born on the <a href="https://en.wikipedia.org/wiki/Gulangyu">Gulang Island</a> in 1998, I was immersed in music from childhood. I’ve learned to play the cello since the age of 4. Professor <a href="https://baike.baidu.com/item/%E8%8B%8F%E5%8A%9B/20348800">SU Li (苏力)</a> at Xiamen University enlightened me to the world of cello and tutored me for several years. Later, I was tutored by Professor <a href="https://mdc.hqu.edu.cn/info/1037/2570.htm">WANG Miao (王淼)</a> at Huaqiao University. During my 6 years of primary education at <a href="https://baike.baidu.com/item/%E5%8E%A6%E9%97%A8%E5%B8%82%E9%9F%B3%E4%B9%90%E5%AD%A6%E6%A0%A1/3637157">Xiamen Music School</a>, I've won many awards at cello competitions, including:
 
