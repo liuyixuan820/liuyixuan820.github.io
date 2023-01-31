@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: Media Coverage
 permalink: /projects/
 description: A growing collection of your cool projects.
-nav: false
+nav: true
 display_categories: [work, fun]
 horizontal: false
 ---
