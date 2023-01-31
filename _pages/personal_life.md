@@ -37,6 +37,12 @@ Growing up, I have been a member of numerous orchestras, including:
 
 I favor the Baroque period music, and my favorite composers are J.S. Bach, Handel, and Vivaldi. I've also learned to play the piano in primary school. Here’s a video of me playing the piano and the cello as a kid in the Gulang Island Concert Hall:
 
-<iframe align="center" width="60%" src="https://www.youtube.com/embed/z_dipl8xAYc" title="鼓浪屿音乐厅天天演" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+   <iframe align="right" width="300" margin-left="auto" src="https://www.youtube.com/embed/z_dipl8xAYc" title="鼓浪屿音乐厅天天演" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+   <div class="address">
+      <br><br>&nbsp;
+   </div>
+</div>
 
 <br>I also enjoy playing golf in my free time. I'm coached by the pro golfer <a href="https://www.facebook.com/paul.podraza.1/">Paul Podraza</a> in Austin, TX.
