@@ -3,7 +3,7 @@ layout: page
 title: Media Coverage
 permalink: /media_coverage/
 description: 
-nav: true
+nav: false
 display_categories: [fun]
 horizontal: false
 
