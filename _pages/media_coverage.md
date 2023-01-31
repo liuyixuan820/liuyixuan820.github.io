@@ -14,4 +14,4 @@ horizontal: false
 
 Interviewed about my research in NYC. View it on Bilibili here:
 
-<iframe width="80%" height="60%" src="//player.bilibili.com/player.html?aid=778384309&bvid=BV1ey4y197BZ&cid=980802842&page=1" title="Jan 26, 2023 Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+<iframe align="center" width="60%" src="//player.bilibili.com/player.html?aid=778384309&bvid=BV1ey4y197BZ&cid=980802842&page=1" title="Jan 26, 2023 Interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
