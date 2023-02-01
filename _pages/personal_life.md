@@ -35,7 +35,10 @@ Growing up, I have been a member of numerous orchestras, including:
    <li><a href="https://sites.utexas.edu/echo/">The Engineering Chamber Orchestra (EChO)</a> at UT Austin.</li>
 </ul>
 
-<iframe height="100%" width="auto" float="left" src="https://www.youtube.com/embed/z_dipl8xAYc" title="鼓浪屿音乐厅天天演" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+    <iframe src="https://www.youtube.com/embed/z_dipl8xAYc"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe>
+</div>
 
 I favor the Baroque period music, and my favorite composers are J.S. Bach, Handel, and Vivaldi. I've also learned to play the piano in primary school. Here you can watch a video of me playing the piano and the cello as a kid in the Gulang Island Concert Hall.
 
