@@ -14,4 +14,6 @@ horizontal: false
 
 Interviewed about my research in NYC. View it on Bilibili here.
 
-<iframe src="//www.bilibili.com/blackboard/html5mobileplayer.html?aid=778384309&bvid=BV1ey4y197BZ&cid=980802842&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+    <iframe src="//www.bilibili.com/blackboard/html5mobileplayer.html?aid=778384309&bvid=BV1ey4y197BZ&cid=980802842&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
