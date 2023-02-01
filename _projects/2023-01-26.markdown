@@ -2,7 +2,7 @@
 layout: page
 title: Jan 26, 2023
 description: 读博贵厚积薄发：用自然语言处理研究情绪，帮助人们更了解自己
-img: /assets/img/12.jpg
+img: /assets/img/jiayu_interview.png
 importance: 1
 category: work
 ---
