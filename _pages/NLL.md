@@ -13,8 +13,8 @@ The meetings are held bi-weekly on Mondays 11:00 AM - 12:00 PM, starting from Ja
 
 <ul>
    <li><b>Jan 23rd, 2023</b>, Hongli will lead the paper discussions</li>
-   <a href="https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.14.pdf">Interpreting Language Models with Contrastive Explanations</a>, EMNLP 2022
+   <a href="https://aclanthology.org/2022.emnlp-main.14/">Interpreting Language Models with Contrastive Explanations</a>, EMNLP 2022
 
    <li><b>Feb 6th, 2023</b>, Hongli will lead the paper discussions</li>
-   <a href="https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.248.pdf">Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs</a>, EMNLP 2022
+   <a href="https://aclanthology.org/2022.emnlp-main.248/">Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs</a>, EMNLP 2022
 </ul>
