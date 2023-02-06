@@ -17,4 +17,7 @@ The meetings are held bi-weekly on Mondays 11:00 AM - 12:00 PM, starting from Ja
 
    <li><b>Feb 6th, 2023</b>, Hongli will lead the paper discussions</li>
    <a href="https://aclanthology.org/2022.emnlp-main.248/">Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs</a>, EMNLP 2022
+
+   <li><b>Feb 20th, 2023</b>, Kyle will join the paper discussions</li>
+   <a href="https://arxiv.org/abs/2301.06627">Dissociating language and thought in large language models: a cognitive perspective</a>
 </ul>
