@@ -5,7 +5,8 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hongli
 middle_name: Henry
-last_name: Zhan | 詹弘立
+last_name: Zhan
+chinese_name: 詹弘立
 email: honglizhan@utexas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Hongli Zhan: Computational Linguist In-Training, Cellist Since 4-Years-Old
