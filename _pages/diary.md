@@ -9,7 +9,7 @@ horizontal: false
 
 <head>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  
+
   <script>
     $(document).ready(function() {
         $("#diary-password-form").submit(function(e) {
@@ -23,6 +23,18 @@ horizontal: false
         });
     });
   </script>
+
+  <script>
+    function showContent() {
+    var password = prompt("Please enter password:");
+    if (password === "1234657890") {
+        $("#diary-content").show();
+    } else {
+        alert("Incorrect password!");
+    }
+    }
+  </script>
+
 </head>
 
 
