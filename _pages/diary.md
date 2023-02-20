@@ -1,15 +1,3 @@
-<script>
-function showContent() {
-    var password = prompt("Please enter the password:");
-    if (password == "<your_password>") {
-        document.getElementById("diary-content").style.display = "block";
-    } else {
-        alert("Incorrect password!");
-    }
-}
-</script>
-
-
 ---
 layout: page
 title: My Diary
@@ -18,6 +6,19 @@ description: Keeping my life here.
 nav: false
 horizontal: false
 ---
+
+<head>
+  <script>
+  function showContent() {
+      var password = prompt("Please enter the password:");
+      if (password == "<your_password>") {
+          document.getElementById("diary-content").style.display = "block";
+      } else {
+          alert("Incorrect password!");
+      }
+  }
+  </script>
+</head>
 
 
 <div id="diary-content" style="display: none;">
