@@ -7,6 +7,41 @@ nav: false
 horizontal: false
 ---
 
+<head>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+  <script>
+    $(document).ready(function() {
+        $("#diary-password-form").submit(function(e) {
+            e.preventDefault();
+            var password = $("#diary-password-input").val();
+            if (password === "1234657890") {
+                $("#diary-content").show();
+            } else {
+                alert("Incorrect password!");
+            }
+        });
+    });
+  </script>
+
+  <script>
+    function showContent() {
+    var password = prompt("Please enter password:");
+    if (password === "1234657890") {
+        $("#diary-content").show();
+    } else {
+        alert("Incorrect password!");
+    }
+    }
+  </script>
+
+</head>
+
+
+<div id="diary-content" style="display: none;">
+
+<h2>16 -- 22岁，在中国</h2>
+
 <ul>
     <li><a href="/_my_diaries/_love_stories_china/引言.md">引言</a></li>
     <li><a href="/_my_diaries/_love_stories_china/第0篇_张蕴之.md">第0篇：张蕴之</a></li>
@@ -17,3 +52,9 @@ horizontal: false
     <li><a href="/_my_diaries/_love_stories_china/第5篇_靳梦楚.md">第5篇：靳梦楚</a></li>
     <li><a href="/_my_diaries/_love_stories_china/番外篇.md">番外篇</a></li>
 </ul>
+
+<h2>22 -- Present, USA</h2>
+
+</div>
+
+<button onclick="showContent()">Show Diary</button>
