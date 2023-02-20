@@ -20,4 +20,7 @@ The meetings are held bi-weekly on Mondays 11:00 AM - 12:00 PM, starting from Ja
 
    <li><b>Feb 20th, 2023</b>, Kyle will join the paper discussions</li>
    <a href="https://arxiv.org/abs/2301.06627">Dissociating language and thought in large language models: a cognitive perspective</a>
+
+   <li><b>Mar 6th, 2023</b>, Venkat will lead the paper discussions</li>
+   <a href="https://arxiv.org/abs/2302.07459">The Capacity for Moral Self-Correction in Large Language Models</a>
 </ul>
