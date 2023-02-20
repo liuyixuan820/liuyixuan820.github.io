@@ -7,7 +7,7 @@ nav: false
 horizontal: false
 ---
 
-<h2>17 -- 22岁，在中国</h2>
+<h2>16 -- 22岁，在中国</h2>
 
 - [引言](/_my_diaries/_love_stories_china/引言.md)
 - [第0篇：张蕴之](/_my_diaries/_love_stories_china/第0篇_张蕴之.md)
