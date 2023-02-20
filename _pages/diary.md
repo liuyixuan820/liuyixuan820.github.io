@@ -1,12 +1,3 @@
----
-layout: page
-title: My Diary
-permalink: /diary/
-description: Keeping my life here.
-nav: false
-horizontal: false
----
-
 <script>
 function showContent() {
     var password = prompt("Please enter the password:");
@@ -17,6 +8,17 @@ function showContent() {
     }
 }
 </script>
+
+
+---
+layout: page
+title: My Diary
+permalink: /diary/
+description: Keeping my life here.
+nav: false
+horizontal: false
+---
+
 
 <div id="diary-content" style="display: none;">
 
