@@ -1,0 +1,12 @@
+<div class="diary">
+  <h2>My Diary</h2>
+  {% if site.diary  %}
+  <div class="table-responsive">
+    {% for file in site.static_files %}
+        {% if file.path contains '/_pages/日记/我和她们的故事-散文/' and file.path contains '.md' %}
+        * [{{ file.basename }}]({{ file.path }})
+        {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>

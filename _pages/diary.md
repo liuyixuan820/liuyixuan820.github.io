@@ -3,12 +3,5 @@ layout: page
 permalink: /diary/
 title: My Diary
 nav: false
+diary: true
 ---
-
-<h2>My Diary</h2>
-
-{% for file in site.static_files %}
-    {% if file.path contains '/_pages/日记/我和她们的故事-散文/' and file.path contains '.md' %}
-    * [{{ file.basename }}]({{ file.path }})
-    {% endif %}
-{% endfor %}
