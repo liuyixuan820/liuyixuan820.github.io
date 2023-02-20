@@ -43,7 +43,7 @@ horizontal: false
 <h2>16 -- 22岁，在中国</h2>
 
 <ul>
-    <li><a href="/my_diaries/love_stories_china/引言.md">引言</a></li>
+    <li><a href="/my_diaries/intro.md">引言</a></li>
     <li><a href="/my_diaries/love_stories_china/第0篇_张蕴之.md">第0篇：张蕴之</a></li>
     <li><a href="/my_diaries/love_stories_china/第1篇_陈钰琳.md">第1篇：陈钰琳</a></li>
     <li><a href="/my_diaries/love_stories_china/第2篇_崔怡丹.md">第2篇：崔怡丹</a></li>
