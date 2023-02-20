@@ -38,7 +38,7 @@ horizontal: false
 </head>
 
 
-<div id="diary-content" style="display: block;">
+<div id="diary-content" style="display: none;">
 
 <h2>16 -- 22岁，在中国</h2>
 
