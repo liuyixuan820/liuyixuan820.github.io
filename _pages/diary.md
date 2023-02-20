@@ -2,7 +2,7 @@
 layout: page
 title: My Diary
 permalink: /diary/
-description: Keeping my life
+description: Keeping my life here.
 nav: false
 horizontal: false
 ---
