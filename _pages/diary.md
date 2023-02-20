@@ -8,15 +8,20 @@ horizontal: false
 ---
 
 <head>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  
   <script>
-  function showContent() {
-      var password = prompt("Please enter the password:");
-      if (password == "<your_password>") {
-          document.getElementById("diary-content").style.display = "block";
-      } else {
-          alert("Incorrect password!");
-      }
-  }
+    $(document).ready(function() {
+        $("#diary-password-form").submit(function(e) {
+            e.preventDefault();
+            var password = $("#diary-password-input").val();
+            if (password === "1234657890") {
+                $("#diary-content").show();
+            } else {
+                alert("Incorrect password!");
+            }
+        });
+    });
   </script>
 </head>
 
