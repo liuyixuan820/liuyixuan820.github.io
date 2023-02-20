@@ -50,7 +50,7 @@ horizontal: false
     <li><a href="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/_my_diaries/_love_stories_china/%E7%AC%AC3%E7%AF%87_%E9%99%86%E7%A5%8E%E7%90%B3.md">第3篇：陆祎琳</a></li>
     <li><a href="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/_my_diaries/_love_stories_china/%E7%AC%AC4%E7%AF%87_%E5%90%B4%E5%98%89%E9%91%AB.md">第4篇：吴嘉鑫</a></li>
     <li><a href="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/_my_diaries/_love_stories_china/%E7%AC%AC5%E7%AF%87_%E9%9D%B3%E6%A2%A6%E6%A5%9A.md">第5篇：靳梦楚</a></li>
-    <li><a href="https://github.com/honglizhan/honglizhan.github.io/edit/master/_my_diaries/_love_stories_china/%E7%95%AA%E5%A4%96%E7%AF%87.md">番外篇</a></li>
+    <li><a href="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/_my_diaries/_love_stories_china/%E7%95%AA%E5%A4%96%E7%AF%87.md">番外篇</a></li>
 </ul>
 
 <h2>22 -- Present, USA</h2>
