@@ -43,4 +43,6 @@ I favor the Baroque period music, and my favorite composers are J.S. Bach, Hande
 
 I also enjoy playing golf in my free time. I'm coached by the pro golfer <a href="https://www.facebook.com/paul.podraza.1/">Paul Podraza</a> in Austin, TX.
 
+<!--
 [My Diary.](https://honglizhan.github.io/diary/)
+-->
