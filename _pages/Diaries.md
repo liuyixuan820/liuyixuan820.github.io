@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Diaries
-permalink: /Hongli_Diaries/4b455129928ce048e6fca751377ca365df808b0e/index.html
+permalink: /Hongli_Diaries/
 description: Diaries
 nav: true
 horizontal: false
