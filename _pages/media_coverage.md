@@ -4,7 +4,7 @@ title: Media Coverage
 permalink: /media_coverage/
 description: Recent media coverage of my research.
 nav: true
-display_categories: [Interviews]
+display_categories: [Interviews, Research]
 horizontal: false
 ---
 <div class="projects">
