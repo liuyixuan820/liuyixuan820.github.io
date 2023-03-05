@@ -21,4 +21,4 @@ I received my B.A. in Linguistics as an outstanding graduate from <a href="https
 
 You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo here was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
 
-I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/).
+I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/). I write diaries [here](https://honglizhan.github.io/Hongli_Diaries/).
