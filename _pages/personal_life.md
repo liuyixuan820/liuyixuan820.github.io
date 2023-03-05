@@ -3,7 +3,7 @@ layout: page
 title: Personal Life
 permalink: /life/
 description: 
-nav: true
+nav: false
 display_categories: [fun]
 horizontal: false
 
