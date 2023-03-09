@@ -3,7 +3,7 @@ layout: page
 title: Media Coverage
 permalink: /media_coverage/
 description: Recent media coverage of my research.
-nav: true
+nav: false
 display_categories: [Interviews, Research]
 horizontal: false
 ---
