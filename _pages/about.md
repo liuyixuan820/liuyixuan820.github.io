@@ -27,22 +27,25 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
   <h2>Education</h2>
   <ul>
     <li>
-      <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>
-      <div class="education-year">2021 -- Present</div>
-      <br>
+      <div class="education-title">
+        <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>
+        <div class="education-year">2021 &ndash; Present</div>
+      </div>
       <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
       <br>
       Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
     </li>
     <li>
-      <strong>B.A. in English Linguistics (Second Major in Law)</strong>
-      <div class="education-year">2017 -- 2021 (Outstanding Graduate)</div>
-      <br>
+      <div class="education-title">
+        <strong>B.A. in English Linguistics (Second Major in Law)</strong>
+        <div class="education-year">2017 &ndash; 2021</div>
+      </div>
       <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
+      <br>
+      Outstanding Graduate
     </li>
   </ul>
 </div>
-
 <style>
   .education ul {
     list-style-type: disc;
@@ -50,14 +53,14 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
   }
   .education li {
     margin-bottom: 1rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
   }
   .education strong {
     font-weight: bold;
   }
   .education-year {
-    font-size: 0.9rem;
+    float: right;
+  }
+  .education-title {
+    overflow: auto;
   }
 </style>
