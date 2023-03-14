@@ -40,7 +40,7 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
       </div>
       <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
       <br>
-      Outstanding Undergraduate, Outstanding Undergraduate Thesis Award
+      Outstanding Undergraduate; Outstanding Undergraduate Thesis Award
     </li>
   </ul>
 </div>
