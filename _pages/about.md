@@ -50,7 +50,7 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
     margin-left: 0;
   }
   .education li {
-    margin-bottom: 0;
+    margin-bottom: -5rem;
   }
   .education strong {
     font-weight: bold;
