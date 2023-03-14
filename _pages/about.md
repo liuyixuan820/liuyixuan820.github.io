@@ -25,42 +25,25 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
 
 <div class="education">
   <h2>Education</h2>
-  <ul>
-    <li>
       <div class="education-title">
         <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 &ndash; Present
       </div>
       <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
       <br>
       Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
-    </li>
-    <li>
+  <br><br>
       <div class="education-title">
         <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
       </div>
       <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
       <br>
       Outstanding Undergraduate; Outstanding Undergraduate Thesis Award
-    </li>
-  </ul>
 </div>
 <style>
-  .education ul {
-    list-style-type: disc;
-    margin-left: 0;
-  }
-  .education li {
-    margin-bottom: 0;
-  }
   .education strong {
     font-weight: bold;
   }
   .education-title {
     overflow: auto;
-  }
-  @media screen and (max-width: 768px) {
-  .education-title {
-    overflow: visible;
-    }
   }
 </style>
