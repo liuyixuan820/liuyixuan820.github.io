@@ -45,4 +45,7 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
   .education-title {
     overflow: auto;
   }
+  .education-title:nth-of-type(2) {
+  margin-top: 10px; /* or adjust the value to your desired distance */
+  }
 </style>
