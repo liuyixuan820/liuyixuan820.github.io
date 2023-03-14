@@ -63,14 +63,13 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
   .education-title {
     overflow: auto;
   }
-
-@media screen and (max-width: 768px) {
-  .education-year {
-    float: none;
-    text-align: right;
-  }
+  @media screen and (max-width: 768px) {
+    .education-year {
+      float: none;
+      text-align: right;
+    }
   .education-title {
     overflow: visible;
+    }
   }
-}
 </style>
