@@ -31,7 +31,6 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
       <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
       <br>
       Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
-  <br><br>
       <div class="education-title">
         <strong>- B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
       </div>
