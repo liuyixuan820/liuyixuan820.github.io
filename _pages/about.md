@@ -22,3 +22,33 @@ I received my B.A. in English (Linguistics) as an outstanding graduate from <a h
 You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo here was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
 
 I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/). I write diaries [here](https://honglizhan.github.io/Hongli_Diaries/).
+
+<div class="education">
+  <h2>Education</h2>
+  <ul>
+    <li>
+      <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>
+      <br>
+      The University of Texas at Austin, 2021 -- Present
+      <br>
+      Advisor: Professor Junyi Jessy Li
+    </li>
+    <li>
+      <strong>B.A. in English Linguistics (Second Major in Law)</strong>
+      <br>
+      Shanghai Jiao Tong University, 2017 -- 2021 (Outstanding Graduate)
+    </li>
+  </ul>
+</div>
+<style>
+  .education ul {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+  }
+  .education li {
+    margin-bottom: 1rem;
+  }
+  .education strong {
+    font-weight: bold;
+  }
+</style>
