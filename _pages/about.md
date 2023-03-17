@@ -38,7 +38,7 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
       <br>
       Advisors: Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>
       <br>
-      Outstanding Undergraduate; Outstanding Undergraduate Thesis Award
+      Awards: Outstanding Undergraduate; Outstanding Undergraduate Thesis Award
 </div>
 <style>
   .education strong {
