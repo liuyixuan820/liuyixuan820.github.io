@@ -36,7 +36,9 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
       </div>
       <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
       <br>
-      Outstanding Undergraduate; Outstanding Undergraduate Thesis Award
+      Advisors: Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>
+      <br>
+  Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
 </div>
 <style>
   .education strong {
