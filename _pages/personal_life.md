@@ -3,9 +3,9 @@ layout: page
 title: Personal Life
 permalink: /life/
 description: 
-nav: false
+nav: True
 display_categories: [fun]
-horizontal: false
+horizontal: True
 
 
 ---
