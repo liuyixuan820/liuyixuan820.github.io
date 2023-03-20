@@ -15,15 +15,15 @@ The meetings are held bi-weekly on Mondays 11:00 AM - 12:00 PM, starting from Ja
    <li><strong>Jan 23rd, 2023, Hongli will lead the paper discussions</strong></li>
    <a href="https://aclanthology.org/2022.emnlp-main.14/">Interpreting Language Models with Contrastive Explanations</a>, EMNLP 2022
 
-   <li><strong>Feb 6th, 2023</b>, Hongli will lead the paper discussions</strong></li>
+   <li><strong>Feb 6th, 2023, Hongli will lead the paper discussions</strong></li>
    <a href="https://aclanthology.org/2022.emnlp-main.248/">Neural Theory-of-Mind? On the Limits of Social Intelligence in Large LMs</a>, EMNLP 2022
 
-   <li><strong>Feb 20th, 2023</b>, Kyle will join the paper discussions</strong></li>
+   <li><strong>Feb 20th, 2023, Kyle will join the paper discussions</strong></li>
    <a href="https://arxiv.org/abs/2301.06627">Dissociating language and thought in large language models: a cognitive perspective</a>
 
-   <li><strong>Mar 6th, 2023</b>, Venkat will lead the paper discussions</strong></li>
+   <li><strong>Mar 6th, 2023, Venkat will lead the paper discussions</strong></li>
    <a href="https://arxiv.org/abs/2302.07459">The Capacity for Moral Self-Correction in Large Language Models</a>
 
-   <li><strong>Mar 20th, 2023</b>, Juan Diego will lead the paper discussions</strong></li>
+   <li><strong>Mar 20th, 2023, Juan Diego will lead the paper discussions</strong></li>
    <a href="https://arxiv.org/pdf/2205.11482">Towards Tracing Factual Knowledge in Language Models Back to the Training Data</a>
 </ul>
