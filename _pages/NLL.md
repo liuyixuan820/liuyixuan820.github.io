@@ -2,9 +2,11 @@
 layout: page
 permalink: /NLL/
 title: UT NLL
-description: UT Austin Natural Language Learning Reading Group, proposed by Professor <a href="https://www.cs.utexas.edu/~mooney/">Raymond Mooney</a>
+description: UT Austin Natural Language Learning Reading Group
 nav: true
 ---
+
+<!--, proposed by Professor <a href="https://www.cs.utexas.edu/~mooney/">Raymond Mooney</a>-->
 
 <h2>Spring 2023</h2>
 This semester, we will focus on recent papers in NLP. At each meeting, one student should sign up for giving a short initial summary of the paper and for preparing some questions to get the discussion going. We will also allocate the last two meetings for students to talk about their own research. Students can give an update about their ongoing research in the form of a 10-min presentation. If you are interested in leading the paper or giving a presentation, please fill in your availability <a href="https://docs.google.com/spreadsheets/d/17y7wGwBkSCq4ZCLCYVTyCmM2m_zGGA6eGmTNPUc6UM4/edit?usp=sharing">here</a>.
