@@ -32,5 +32,5 @@ The meetings are held bi-weekly on Mondays 11:00 AM - 12:00 PM, starting from Ja
    <li><strong>April 3rd, 2023: Anubrata	will lead the paper discussions</strong></li>
    <a href="https://arxiv.org/abs/2302.12389">Explainable AI is Dead, Long Live Explainable AI! Hypothesis-driven decision support</a>
 
-   <li><strong>April 17th, 2023: Hongli and Jierui will give research updates</strong></li>
+   <li><strong>April 17th, 2023: Hongli, Venkat, and Jierui will give research updates</strong></li>
 </ul>
