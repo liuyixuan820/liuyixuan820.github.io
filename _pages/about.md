@@ -35,8 +35,8 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
         <strong>&bull; B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
       </div>
       <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
-      <br>
-      Advisors: Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>
+      <!---- <br>
+      Advisors: Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>-->
       <br>
   Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
 </div>
