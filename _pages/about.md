@@ -23,6 +23,8 @@ You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Addit
 
 I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/).<!---- I write diaries [here](https://honglizhan.github.io/Hongli_Diaries/).-->
 
+My advisor calls me a tweet pro :P
+
 <div class="education">
   <h2>Education</h2>
       <div class="education-title">
