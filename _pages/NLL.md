@@ -9,7 +9,7 @@ nav: true
 <!--, proposed by Professor <a href="https://www.cs.utexas.edu/~mooney/">Raymond Mooney</a>-->
 
 <h2>Fall 2023</h2>
-As usual, we will continue to focus on recent papers in NLP. At each meeting, we will have a volunteer leading the paper discussion. If you are interested in leading the paper, please fill in your availability <a href="https://docs.google.com/spreadsheets/d/17y7wGwBkSCq4ZCLCYVTyCmM2m_zGGA6eGmTNPUc6UM4/edit?usp=sharing">here</a>.
+As usual, we will continue to focus on recent papers in NLP. At each meeting, we will have a volunteer leading the paper discussion. If you are interested in leading the paper, please let me know or simply put down your availability <a href="https://docs.google.com/spreadsheets/d/17y7wGwBkSCq4ZCLCYVTyCmM2m_zGGA6eGmTNPUc6UM4/edit?usp=sharing">here</a>.
 
 <details>
    <summary><strong>Spring 2023</strong></summary>
