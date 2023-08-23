@@ -21,6 +21,8 @@ I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://w
 
 You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Additionally, my resume is provided [here](https://honglizhan.github.io/assets/pdf/Resume__1_Page_.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo here was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
 
+Currently, I'm leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
+
 I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/).<!---- I write diaries [here](https://honglizhan.github.io/Hongli_Diaries/).-->
 
 <!---- My advisor calls me a tweet pro :P-->
