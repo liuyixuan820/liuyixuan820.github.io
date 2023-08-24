@@ -11,8 +11,10 @@ nav: true
 <h2>Fall 2023</h2>
 As usual, we will continue to focus on recent papers in NLP. At each meeting, we will have a volunteer leading the paper discussion. If you are interested in leading the paper, please let me know or simply put down your availability <a href="https://docs.google.com/spreadsheets/d/17y7wGwBkSCq4ZCLCYVTyCmM2m_zGGA6eGmTNPUc6UM4/edit?usp=sharing">here</a>.
 
-<li><strong>Aug 31st, 2023: Kanishka will join our discussions on his recent outstanding paper at ACL</strong></li>
-<a href="https://aclanthology.org/2023.acl-long.333/">Language model acceptability judgements are not always robust to context</a>, Outstanding Paper at ACL 2023
+<ul>
+   <li><strong>Aug 31st, 2023: Kanishka will join our discussions on his recent outstanding paper at ACL</strong></li>
+   <a href="https://aclanthology.org/2023.acl-long.333/">Language model acceptability judgements are not always robust to context</a>, Outstanding Paper at ACL 2023
+</ul>
 
 <details>
    <summary><strong>Spring 2023</strong></summary>
