@@ -13,7 +13,8 @@ As usual, we will continue to focus on recent papers in NLP. At each meeting, we
 
 <ul>
    <li><strong>Aug 31st, 2023: Kanishka will join our discussions on his recent outstanding paper at ACL</strong></li>
-   <a href="https://aclanthology.org/2023.acl-long.333/">Language model acceptability judgements are not always robust to context</a>, Outstanding Paper at ACL 2023
+   <a href="https://aclanthology.org/2023.acl-long.333/">Language model acceptability judgements are not always robust to context</a><br>
+   Outstanding Paper at ACL 2023
 </ul>
 
 <details>
