@@ -17,9 +17,11 @@ social: true  # includes social icons at the bottom of the page
 
 I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, where I'm blessed to be advised by Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>. My research interest is in Natural Language Processing as well as Computational Linguistics, with a focus on emotions. I am part of the <a href="https://www.nlp.utexas.edu/">UT Austin NLP community</a> as well as the <a href="https://asol.ling.utexas.edu/">Associated Students of Linguistics</a>. Casually, I go by Henry. My Chinese name is 詹弘立.
 
-<!---- I received my B.A. in English (Linguistics) as an outstanding graduate from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2021. During my undergraduate studies there, I was very fortunate to be guided academically by wonderful professors including Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1814">Xinchao Guan</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, and Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>.-->
+<!---- I received my B.A. in English (Linguistics) as an outstanding graduate from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2021. During my undergraduate studies there, I was very fortunate to be guided academically by wonderful professors including Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1814">Xinchao Guan</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, and Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>.
 
-You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Additionally, my resume is provided [here](https://honglizhan.github.io/assets/pdf/Resume__1_Page_.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo here was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
+You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf).-->
+
+My resume is provided [here](https://honglizhan.github.io/assets/pdf/Resume__1_Page_.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo here was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
 
 Currently, I'm leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
 
