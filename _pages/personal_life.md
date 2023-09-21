@@ -43,4 +43,4 @@ I favor the Baroque period music, and my favorite composers are J.S. Bach, Hande
 
 I exercise on a daily basis b/c I'm too prone to growing fat (I used to weigh roughly 250 pounds, and I lost 70 pounds of that in high school). I also enjoy playing golf in my free time. I'm coached by the pro golfer <a href="https://www.facebook.com/paul.podraza.1/">Paul Podraza</a> in Austin, TX.
 
-Read my diaries [here](https://honglizhan.github.io/Hongli_Diaries/).
+<!---- Read my diaries [here](https://honglizhan.github.io/Hongli_Diaries/).-->

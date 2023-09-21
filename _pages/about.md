@@ -21,7 +21,7 @@ I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://w
 
 You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf).-->
 
-My resume is provided [here](https://honglizhan.github.io/assets/pdf/Resume__1_Page_.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo here was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
+My resume is linked [here](https://honglizhan.github.io/assets/pdf/Resume__1_Page_.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
 
 Currently, I'm leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
 
