@@ -23,6 +23,9 @@ As usual, we will continue to focus on recent papers in NLP. At each meeting, we
 
    <li><strong>Sep 28th, 2023: Philippe will lead the discussions</strong></li>
    <a href="https://arxiv.org/pdf/2307.09288.pdf">Llama 2: Open Foundation and Fine-Tuned Chat Models</a>
+
+   <li><strong>Oct 12nd, 2023: Venkat will lead the discussions</strong></li>
+   <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584034">Scim: Intelligent Skimming Support for Scientific Papers</a>
 </ul>
 
 <details>
