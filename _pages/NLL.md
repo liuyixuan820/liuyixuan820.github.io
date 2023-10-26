@@ -26,6 +26,9 @@ As usual, we will continue to focus on recent papers in NLP. At each meeting, we
 
    <li><strong>Oct 12nd, 2023: Venkat will lead the discussions</strong></li>
    <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584034">Scim: Intelligent Skimming Support for Scientific Papers</a>
+
+   <li><strong>Oct 26th, 2023</strong></li>
+   <a href="https://aclanthology.org/2023.acl-long.113.pdf">ELQA: A Corpus of Metalinguistic Questions and Answers about English</a
 </ul>
 
 <details>
