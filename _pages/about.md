@@ -25,7 +25,7 @@ My CV is linked [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Media co
 
 Currently, I'm leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
 
-I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/).<!---- I write diaries [here](https://honglizhan.github.io/Hongli_Diaries/).-->
+<!---- I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/). I write diaries [here](https://honglizhan.github.io/Hongli_Diaries/).-->
 
 <!---- My advisor calls me a tweet pro :P-->
 
@@ -60,3 +60,14 @@ I'm also a cellist since 4 years old. In my free time, I like to practice the ce
   margin-top: 10px; /* or adjust the value to your desired distance */
   }
 </style>
+
+
+<div class="research interests">
+  <h2>Research Interests</h2>
+      <div class="education-title">
+        The ambition of my Ph.D. research is to <strong>build emotionally intelligent AI systems in a broader social context</strong>. Specifically, I focus on Affective Computing, which tries to build NLP models with a deeper emotional understanding.
+      </div>
+      &bull; <strong>EMNLP 2022 & ACL 2023</strong>: We tapped into the questions of "How do people feel about and make sense of what took place in their lives during major social events?" and proposed Emotion Detection and Trigger Summarization, a new task to detect perceived emotions in text automatically and abstractively summarize triggers of each emotion.
+      <br>
+      &bull; <strong>EMNLP 2023 Findings</strong>: Grounded in Psychology theories, my work explored the capability of LLMs on complex emotional understanding tasks: are they able to assess and explain *cognitive appraisals* (how individuals subjectively interpret and evaluate a situation) that lead to diverse emotional experiences?
+</div>
