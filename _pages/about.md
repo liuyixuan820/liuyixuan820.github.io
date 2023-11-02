@@ -60,14 +60,3 @@ Currently, I'm leading the <a href="https://honglizhan.github.io/NLL/">UT Austin
   margin-top: 10px; /* or adjust the value to your desired distance */
   }
 </style>
-
-
-<div class="research interests">
-  <h2>Research Interests</h2>
-      <div class="education-title">
-        The ambition of my Ph.D. research is to <strong>build emotionally intelligent AI systems in a broader social context</strong>. Specifically, I focus on Affective Computing, which tries to build NLP models with a deeper emotional understanding.
-      </div>
-      &bull; <strong>EMNLP 2022 & ACL 2023</strong>: We tapped into the questions of "How do people feel about and make sense of what took place in their lives during major social events?" and proposed Emotion Detection and Trigger Summarization, a new task to detect perceived emotions in text automatically and abstractively summarize triggers of each emotion.
-      <br>
-      &bull; <strong>EMNLP 2023 Findings</strong>: Grounded in Psychology theories, my work explored the capability of LLMs on complex emotional understanding tasks: are they able to assess and explain *cognitive appraisals* (how individuals subjectively interpret and evaluate a situation) that lead to diverse emotional experiences?
-</div>
