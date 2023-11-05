@@ -15,7 +15,7 @@ news: false # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, where I'm blessed to be advised by Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>. My research interest is to build emotionally intelligent AI systems in a broader social context. I am part of the <a href="https://www.nlp.utexas.edu/">UT Austin NLP community</a>. Currently, I'm leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
+I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, where I'm blessed to be advised by Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>. The ambition of my research is to <strong>build emotionally intelligent AI systems in a broader social context</strong>. I am part of the <a href="https://www.nlp.utexas.edu/">UT Austin NLP community</a>. Currently, I'm leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
 
 <!----Casually, I go by Henry. My Chinese name is 詹弘立.-->
 
