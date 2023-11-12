@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Personal Life
-permalink: /life/
+title: Misc
+permalink: /misc/
 description: 
-nav: false
+nav: true
 display_categories: [fun]
 horizontal: True
 
