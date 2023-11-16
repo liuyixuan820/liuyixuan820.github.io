@@ -15,6 +15,10 @@ news: false # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
+<blockquote cite="https://www.huxley.net/bnw/four.html">
+  <p><strong><em>Arrogance is a sign of ignorance.</em></strong></p>
+</blockquote>
+
 I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, where I'm blessed to be advised by Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>. The ambition of my research is to <strong>build emotionally intelligent AI systems in a broader social context</strong>. I am part of the <a href="https://www.nlp.utexas.edu/">UT Austin NLP community</a>. Currently, I'm leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
 
 <!----Casually, I go by Henry. My Chinese name is 詹弘立.-->
@@ -25,7 +29,6 @@ You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf).-->
 
 My CV is linked [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
 
-<strong><em>Arrogance comes from ignorance.</em></strong>
 
 <!---- I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/). I write diaries [here](https://honglizhan.github.io/Hongli_Diaries/).-->
 
