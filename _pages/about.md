@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Office: RLP 4.108, E4</p>
+    <p>Office: RLP 4.108</p>
     
 selected_papers: true # includes a list of papers marked as "selected={true}"
 news: false # includes a list of news items
