@@ -15,7 +15,7 @@ news: false # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-<blockquote style="display: inline-block; margin: 0; padding: 10px; background-color: #ecf0f1; font-style: italic; font-size: 1.1em;"><strong><em>Arrogance is a sign of ignorance.</em></strong></blockquote>
+<blockquote style="margin-bottom: 10px; display: inline-block; margin: 0; padding: 10px; background-color: #ecf0f1; font-style: italic; font-size: 1.1em;"><strong><em>Arrogance is a sign of ignorance.</em></strong></blockquote>
 
 I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, where I'm blessed to be advised by Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>. The ambition of my research is to <strong>build emotionally intelligent AI systems in a broader social context</strong>. I am part of the <a href="https://www.nlp.utexas.edu/">UT Austin NLP community</a>, and am currently leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
 
