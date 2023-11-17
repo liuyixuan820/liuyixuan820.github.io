@@ -39,8 +39,7 @@ My CV is linked [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Media co
       </div>
       <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
       <br>
-      Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a><br>
-      Qualifying Paper (QP) Readers: Prof. <a href="https://jessyli.com/">Junyi Jessy Li</a>, Prof. <a href="https://desmond-ong.github.io/">Desmond C. Ong</a>, Prof. <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97">David I. Beaver</a>
+      Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
       <div class="education-title">
         <strong>&bull; B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
       </div>
