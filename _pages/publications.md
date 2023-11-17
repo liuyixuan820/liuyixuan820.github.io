@@ -8,9 +8,5 @@ nav: false
 \* Denotes equal contributions.
 
 <div class="publications">
-
-<div class="publications">
   {% bibliography -f papers %}
-</div>
-
 </div>
