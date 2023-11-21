@@ -2,6 +2,12 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+ /* Set a base font size for the entire document */
+body {
+  font-size: 14px; /* Adjust the font size as needed */
+}
+
+
 // Typography
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
