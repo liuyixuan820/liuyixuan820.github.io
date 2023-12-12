@@ -402,8 +402,10 @@ footer.sticky-bottom {
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
-          padding-left: 0rem;
-          padding-right: 0rem;
+          padding-left: 0.35rem;
+          padding-right: 0.35rem;
+          padding-top: 0.1rem;
+          padding-bottom: 0.1rem;
           a {
             color: white;
             &:hover {
