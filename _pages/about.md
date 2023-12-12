@@ -26,7 +26,7 @@ You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf).-->
 
 My CV is linked [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
 
-Casually, I go by Henry.
+Casually, I go by Henry.<br/>
 
 <!---- I'm also a cellist since 4 years old. In my free time, I like to practice the cello and play golf. You can find more details about my cello journey [here](https://honglizhan.github.io/life/). I write diaries [here](https://honglizhan.github.io/Hongli_Diaries/).-->
 
