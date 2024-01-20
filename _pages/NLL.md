@@ -8,8 +8,8 @@ nav: true
 
 <!--, proposed by Professor <a href="https://www.cs.utexas.edu/~mooney/">Raymond Mooney</a>-->
 
-Location: GDC 3.816 / <a href="https://utexas.zoom.us/j/2413159498">Zoom</a><br>
-Presentation Signup Sheet: <a href="https://docs.google.com/spreadsheets/d/17y7wGwBkSCq4ZCLCYVTyCmM2m_zGGA6eGmTNPUc6UM4/edit?usp=sharing">here</a>
+<strong>Location</strong>: GDC 3.816 / <a href="https://utexas.zoom.us/j/2413159498">Zoom</a><br>
+<strong>Presentation Signup Sheet</strong>: <a href="https://docs.google.com/spreadsheets/d/17y7wGwBkSCq4ZCLCYVTyCmM2m_zGGA6eGmTNPUc6UM4/edit?usp=sharing">here</a>
 
 <h2>Spring 2024</h2>
 <ul>
