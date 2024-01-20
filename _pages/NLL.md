@@ -10,29 +10,37 @@ nav: true
 
 Location: GDC 3.816 / <a href="https://utexas.zoom.us/j/2413159498">Zoom</a>.
 
-<h2>Fall 2023</h2>
-As usual, we will continue to focus on recent papers in NLP. At each meeting, we will have a volunteer leading the paper discussion. If you are interested in leading the paper, please let me know or simply put down your availability <a href="https://docs.google.com/spreadsheets/d/17y7wGwBkSCq4ZCLCYVTyCmM2m_zGGA6eGmTNPUc6UM4/edit?usp=sharing">here</a>.
-
+<h2>Spring 2024</h2>
 <ul>
-   <li><strong>Aug 31st, 2023: Kanishka will join our discussions on his recent outstanding paper at ACL</strong></li>
-   <a href="https://aclanthology.org/2023.acl-long.333/">Language model acceptability judgements are not always robust to context</a><br>
-   Outstanding Paper at ACL 2023
-
-   <li><strong>Sep 14th, 2023</strong></li>
-   <a href="https://blender.cs.illinois.edu/paper/lmcollaboration2023.pdf">Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration</a>
-
-   <li><strong>Sep 28th, 2023: Philippe will lead the discussions</strong></li>
-   <a href="https://arxiv.org/pdf/2307.09288.pdf">Llama 2: Open Foundation and Fine-Tuned Chat Models</a>
-
-   <li><strong>Oct 12nd, 2023: Venkat will lead the discussions</strong></li>
-   <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584034">Scim: Intelligent Skimming Support for Scientific Papers</a>
-
-   <li><strong>Oct 26th, 2023</strong></li>
-   <a href="https://aclanthology.org/2023.acl-long.113.pdf">ELQA: A Corpus of Metalinguistic Questions and Answers about English</a>
-
-   <li><strong>Nov 9th, 2023</strong>, Nathan Schneider will give a talk on ``Toward Natural Metalanguage Processing''</li>
-   [Abstract] People don't just talk with natural language: sometimes, they talk about it. A wealth of knowledge about words, grammar, and meaning is communicated metalinguistically—whether it's through dictionaries, language learning resources, scholarly works in linguistics and literature, or social/political/legal discourse. Are current NLP models fluent in metalanguage, and can they provide accurate metalinguistic explanations? I will present case studies looking at two metalinguistically rich genres: (i) online language discussion forums [ACL 2023], and (ii) judicial rulings involving language interpretation. We find that large language models can largely categorize kinds of metalanguage, and can generate satisfactory answers to some (but not all) metalinguistic questions. (Joint work with Shabnam Behzad, Michael Kranzlein, Keisuke Sakaguchi, Kevin Tobia, and Amir Zeldes.)
+   <li><strong>Jan 26th, 2024</strong></li>
+   Venkat will give a practice job talk.
 </ul>
+
+<details>
+   <summary><strong>Fall 2023</strong></summary>
+   As usual, we will continue to focus on recent papers in NLP. At each meeting, we will have a volunteer leading the paper discussion. If you are interested in leading the paper, please let me know or simply put down your availability <a href="https://docs.google.com/spreadsheets/d/17y7wGwBkSCq4ZCLCYVTyCmM2m_zGGA6eGmTNPUc6UM4/edit?usp=sharing">here</a>.
+
+   <ul>
+      <li><strong>Aug 31st, 2023: Kanishka will join our discussions on his recent outstanding paper at ACL</strong></li>
+      <a href="https://aclanthology.org/2023.acl-long.333/">Language model acceptability judgements are not always robust to context</a><br>
+      Outstanding Paper at ACL 2023
+
+      <li><strong>Sep 14th, 2023</strong></li>
+      <a href="https://blender.cs.illinois.edu/paper/lmcollaboration2023.pdf">Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration</a>
+
+      <li><strong>Sep 28th, 2023: Philippe will lead the discussions</strong></li>
+      <a href="https://arxiv.org/pdf/2307.09288.pdf">Llama 2: Open Foundation and Fine-Tuned Chat Models</a>
+
+      <li><strong>Oct 12nd, 2023: Venkat will lead the discussions</strong></li>
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3581641.3584034">Scim: Intelligent Skimming Support for Scientific Papers</a>
+
+      <li><strong>Oct 26th, 2023</strong></li>
+      <a href="https://aclanthology.org/2023.acl-long.113.pdf">ELQA: A Corpus of Metalinguistic Questions and Answers about English</a>
+
+      <li><strong>Nov 9th, 2023</strong>, Nathan Schneider will give a talk on ``Toward Natural Metalanguage Processing''</li>
+      [Abstract] People don't just talk with natural language: sometimes, they talk about it. A wealth of knowledge about words, grammar, and meaning is communicated metalinguistically—whether it's through dictionaries, language learning resources, scholarly works in linguistics and literature, or social/political/legal discourse. Are current NLP models fluent in metalanguage, and can they provide accurate metalinguistic explanations? I will present case studies looking at two metalinguistically rich genres: (i) online language discussion forums [ACL 2023], and (ii) judicial rulings involving language interpretation. We find that large language models can largely categorize kinds of metalanguage, and can generate satisfactory answers to some (but not all) metalinguistic questions. (Joint work with Shabnam Behzad, Michael Kranzlein, Keisuke Sakaguchi, Kevin Tobia, and Amir Zeldes.)
+   </ul>
+</details>
 
 <details>
    <summary><strong>Spring 2023</strong></summary>
