@@ -19,8 +19,8 @@ nav: true
    <li><strong>Feb 9th, 2024</strong></li>
    Anubrata will give a practice job talk.
 
-   <li><strong>Feb 23rd, 2024</strong></li>
-   We will be reading <a href="https://arxiv.org/pdf/2310.18168.pdf">Personas as a way to Model Truthfulness in Language Models</a>, Venkat is leading the discussion.
+   <li><strong>Feb 23rd, 2024: Venkat is leading the discussion</strong></li>
+   We will be reading <a href="https://arxiv.org/pdf/2310.18168.pdf">Personas as a way to Model Truthfulness in Language Models</a>
 
    <li><strong>March 8th, 2024</strong></li>
    We will be reading <a href="https://arxiv.org/pdf/2402.12530.pdf">Parallel Structures in Pre-training Data Yield In-Context Learning</a>
