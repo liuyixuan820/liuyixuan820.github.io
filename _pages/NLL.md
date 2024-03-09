@@ -15,6 +15,18 @@ nav: true
 <ul>
    <li><strong>Jan 26th, 2024</strong></li>
    Venkat will give a practice job talk.
+
+   <li><strong>Feb 9th, 2024</strong></li>
+   Anubrata will give a practice job talk.
+
+   <li><strong>Feb 23rd, 2024</strong></li>
+   We will be reading <a href="https://arxiv.org/pdf/2310.18168.pdf">Personas as a way to Model Truthfulness in Language Models</a>, Venkat is leading the discussion.
+
+   <li><strong>March 8th, 2024</strong></li>
+   We will be reading <a href="https://arxiv.org/pdf/2402.12530.pdf">Parallel Structures in Pre-training Data Yield In-Context Learning</a>
+
+   <li><strong>March 22nd, 2024</strong></li>
+   We will be reading <a href="https://arxiv.org/pdf/2402.13956.pdf">Can You Learn Semantics Through Next-Word Prediction? The Case of Entailment</a>
 </ul>
 
 <details>
