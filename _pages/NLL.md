@@ -25,7 +25,7 @@ nav: true
    <li><strong>March 8th, 2024</strong></li>
    We will be reading <a href="https://arxiv.org/pdf/2402.12530.pdf">Parallel Structures in Pre-training Data Yield In-Context Learning</a>
 
-   <li><strong>March 22nd, 2024</strong></li>
+   <li><strong>March 22nd, 2024: Juan Diego is leading the discussion</strong></li>
    We will be reading <a href="https://arxiv.org/pdf/2402.13956.pdf">Can You Learn Semantics Through Next-Word Prediction? The Case of Entailment</a>
 </ul>
 
