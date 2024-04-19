@@ -27,6 +27,9 @@ nav: true
 
    <li><strong>March 22nd, 2024: Juan Diego is leading the discussion</strong></li>
    We will be reading <a href="https://arxiv.org/pdf/2402.13956.pdf">Can You Learn Semantics Through Next-Word Prediction? The Case of Entailment</a>
+
+   <li><strong>April 19th, 2024: Prof. Sasha Rush is giving a talk on State Space Models</strong></li>
+   See <a href="https://srush.github.io/annotated-s4/#part-1-state-space-models">this blog post</a> for an overview
 </ul>
 
 <details>
