@@ -50,7 +50,7 @@ Casually, I go by Henry.<br/><br/>
   Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
 </div>
 
-<br/><br/>
+<br/>
 
 <div class="education">
   <h2>Industry Experience</h2>
