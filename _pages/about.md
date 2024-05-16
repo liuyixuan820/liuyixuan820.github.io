@@ -61,6 +61,16 @@ Casually, I go by Henry.<br/><br/>
 </div>
 
 
+<br/>
+
+<div class="education">
+  <h2>Research Highlights</h2>
+      Understanding emotions is crucial in assessing one's well-being. How do people feel about and make sense of what took place in their lives during crises? In our work investigating emotional tolls caused by COVID-19 (Zhan et al., EMNLP 2022), we developed models that could jointly predict fine-grained emotion given social media text, and generate a description of what triggered the emotion. Nevertheless, the same event can often result in different emotional experiences, based on an individual's subjective evaluations or appraisals.
+
+      In follow-up work (Zhan et al., EMNLP 2023 Findings), we found that state-of-the-art LLMs were on par with (and in some cases better than) lay people in uncovering the implicit cognitive information for emotional understanding. Having established such cognitive capabilities, we can subsequently zoom in on the specific negative appraisals which lead to negative emotions, and try to change them by offering targeted reappraisals. Based on the cognitive appraisal theories of emotions, this provides a precise, principled way to help regulate someone's emotions. In our most recent work (Zhan et al., 2024), we dived into instilling such cognitive reappraisal abilities into LLMs. Our extensive expert evaluations (with practicing psychologists holding advanced degrees) revealed that even LLMs at smaller scales (e.g., 7 billion) can generate cognitive reappraisals that significantly outperform human-written ones if we guide them with psychologically-informed instructions. These findings underscore the potential of AI systems for emotional support and mental well-being.
+</div>
+
+
 <style>
   .education strong {
     font-weight: bold;
