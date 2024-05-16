@@ -55,9 +55,9 @@ Casually, I go by Henry.<br/><br/>
 <div class="education">
   <h2>Industry Experience</h2>
       <div class="education-title">
-        <strong>&bull; Research Intern</strong>, Summer 2024
+        <strong>&bull; Research Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Summer 2024
       </div>
-      <a href="https://research.ibm.com/">IBM Research</a>, Yorktown Heights, NY
+      Yorktown Heights, NY
       <br>
       Hosts: Dr. <a href="https://researcher.draco.res.ibm.com/researcher/view.php?person=us-rhoresh">Raya Horesh</a>, Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a>, Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
 </div>
