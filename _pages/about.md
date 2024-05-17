@@ -35,7 +35,7 @@ Casually, I go by Henry.<br/><br/>
 <div class="education">
   <h2>Education</h2>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:80px; height:auto; margin-right:10px;">
+      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
         <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 &ndash; Present
         <br>
@@ -45,7 +45,7 @@ Casually, I go by Henry.<br/><br/>
       </div>
     </div>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:80px; height:auto; margin-right:10px;">
+      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
         <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
         <br>
@@ -61,7 +61,7 @@ Casually, I go by Henry.<br/><br/>
 <div class="education">
   <h2>Industry Experience</h2>
   <div class="experience-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:80px; height:auto; margin-right:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:80px; height:auto; margin-right:20px;">
     <div>
       <strong>Research Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Yorktown Heights, NY, Summer 2024
       <br>
