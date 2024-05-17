@@ -36,7 +36,7 @@ Casually, I go by Henry.<br/><br/>
   <h2>Education</h2>
     <div class="education-entry">
       <div class="education-info">
-        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo">
+        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:200px; height:auto; float:left; margin-right:10px;">
         <div class="education-details">
           <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 – Present
           <br>
@@ -49,7 +49,7 @@ Casually, I go by Henry.<br/><br/>
       
     <div class="education-entry">
       <div class="education-info">
-        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo">
+        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:200px; height:auto; float:left; margin-right:10px;">
         <div class="education-details">
           <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 – 2021
           <br>
@@ -101,7 +101,7 @@ Casually, I go by Henry.<br/><br/>
 
   .education-entry {
   display: flex;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
   .education-info {
