@@ -34,18 +34,17 @@ Casually, I go by Henry.<br/><br/>
 
 <div class="education">
   <h2>Education</h2>
-      <div class="education-title">
-        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:100px; height:auto; float:left; margin-right:10px">
-        <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 &ndash; Present
-      </div>
+    <div class="education-title">
+      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:100px; height:auto; float:left; margin-right:10px">
+      <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 &ndash; Present
+    </div>
       <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
       <br>
       Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
-
-      <div class="education-title">
-        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:100px; height:auto; float:left; margin-right:10px;">
-        <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
-      </div>
+    <div class="education-title">
+      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:100px; height:auto; float:left; margin-right:10px;">
+      <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
+    </div>
       <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
       <!---- <br>
       Advisors: Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>-->
@@ -57,10 +56,10 @@ Casually, I go by Henry.<br/><br/>
 
 <div class="education">
   <h2>Industry Experience</h2>
-      <div class="education-title">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:50px; height:auto; float:left; margin-right:10px;">
-        <strong>Research Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Yorktown Heights, NY, Summer 2024
-      </div>
+    <div class="education-title">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:50px; height:auto; float:left; margin-right:10px;">
+      <strong>Research Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Yorktown Heights, NY, Summer 2024
+    </div>
       Hosts: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>, Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a>, Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
 </div>
 
@@ -69,11 +68,9 @@ Casually, I go by Henry.<br/><br/>
 
 <div class="education">
   <h2>Research Highlights</h2>
-      &ensp;&ensp;&ensp;&ensp;Understanding emotions is crucial in assessing one's well-being. How do people feel about and make sense of what took place in their lives during crises? In our work investigating emotional tolls caused by COVID-19 <a href="https://aclanthology.org/2022.emnlp-main.642/">(Zhan et al., EMNLP 2022)</a>, we developed models that could jointly predict fine-grained emotion given social media text, and generate a description of what triggered the emotion. Nevertheless, the same event can often result in different emotional experiences, based on an individual's subjective evaluations or appraisals.
-
-      <br>
-
-      &ensp;&ensp;&ensp;&ensp;In follow-up work <a href="https://aclanthology.org/2023.findings-emnlp.962/">(Zhan et al., EMNLP 2023 Findings)</a>, we found that state-of-the-art LLMs were on par with (and in some cases better than) lay people in uncovering the implicit cognitive information for emotional understanding. Having established such cognitive capabilities, we can subsequently zoom in on the specific negative appraisals which lead to negative emotions, and try to change them by offering targeted reappraisals. Based on the cognitive appraisal theories of emotions, this provides a precise, principled way to help regulate someone's emotions. In our most recent work <a href="https://arxiv.org/abs/2404.01288">(Zhan et al., 2024)</a>, we dived into instilling such cognitive reappraisal abilities into LLMs. Our extensive expert evaluations (with practicing psychologists holding advanced degrees) revealed that even LLMs at smaller scales (e.g., 7 billion) can generate cognitive reappraisals that significantly outperform human-written ones if we guide them with psychologically-informed instructions. These findings underscore the potential of AI systems for emotional support and mental well-being.
+    &ensp;&ensp;&ensp;&ensp;Understanding emotions is crucial in assessing one's well-being. How do people feel about and make sense of what took place in their lives during crises? In our work investigating emotional tolls caused by COVID-19 <a href="https://aclanthology.org/2022.emnlp-main.642/">(Zhan et al., EMNLP 2022)</a>, we developed models that could jointly predict fine-grained emotion given social media text, and generate a description of what triggered the emotion. Nevertheless, the same event can often result in different emotional experiences, based on an individual's subjective evaluations or appraisals.
+    <br>
+    &ensp;&ensp;&ensp;&ensp;In follow-up work <a href="https://aclanthology.org/2023.findings-emnlp.962/">(Zhan et al., EMNLP 2023 Findings)</a>, we found that state-of-the-art LLMs were on par with (and in some cases better than) lay people in uncovering the implicit cognitive information for emotional understanding. Having established such cognitive capabilities, we can subsequently zoom in on the specific negative appraisals which lead to negative emotions, and try to change them by offering targeted reappraisals. Based on the cognitive appraisal theories of emotions, this provides a precise, principled way to help regulate someone's emotions. In our most recent work <a href="https://arxiv.org/abs/2404.01288">(Zhan et al., 2024)</a>, we dived into instilling such cognitive reappraisal abilities into LLMs. Our extensive expert evaluations (with practicing psychologists holding advanced degrees) revealed that even LLMs at smaller scales (e.g., 7 billion) can generate cognitive reappraisals that significantly outperform human-written ones if we guide them with psychologically-informed instructions. These findings underscore the potential of AI systems for emotional support and mental well-being.
 </div>
 
 
