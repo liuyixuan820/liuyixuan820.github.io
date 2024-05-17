@@ -34,7 +34,7 @@ Casually, I go by Henry.<br/><br/>
 
 <div class="education">
   <h2>Education</h2>
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:200px; height:auto; float:left; margin-right:0px;">
+      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:50px; height:auto; float:left; margin-right:10px;">
       <div class="education-title">
         <strong>&bull; Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 &ndash; Present
       </div>
@@ -44,7 +44,7 @@ Casually, I go by Henry.<br/><br/>
       
       <br>
       
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:200px; height:auto; float:left; margin-right:0px;">
+      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:50px; height:auto; float:left; margin-right:10px;">
       <div class="education-title">
         <strong>&bull; B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
       </div>
