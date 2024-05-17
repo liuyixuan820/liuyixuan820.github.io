@@ -61,7 +61,7 @@ Casually, I go by Henry.<br/><br/>
 <div class="education">
   <h2>Industry Experience</h2>
   <div class="experience-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:100px; height:auto; margin-right:10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:60px; height:auto; margin-right:10px;">
     <div>
       <strong>Research Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Yorktown Heights, NY, Summer 2024
       <br>
