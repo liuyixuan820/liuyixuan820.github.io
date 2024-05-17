@@ -34,22 +34,22 @@ Casually, I go by Henry.<br/><br/>
 
 <div class="education">
   <h2>Education</h2>
-    <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:50px; height:auto; float:left; margin-right:10px; align-self: stretch;"><br/>
       <div class="education-title" style="display: flex; align-items: flex-start;">
+        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:50px; height:auto; float:left; margin-right:10px; align-self: stretch;"><br/>
         <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 &ndash; Present
-      </div>
         <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
         <br>
         Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
-    <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:50px; height:auto; float:left; margin-right:10px; align-self: stretch;"><br/>
-      <div class="education-title" style="display: flex; align-items: flex-start;">
-        <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
       </div>
+      <div class="education-title" style="display: flex; align-items: flex-start;">
+        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:50px; height:auto; float:left; margin-right:10px; align-self: stretch;"><br/>
+        <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
         <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
         <!---- <br>
         Advisors: Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>-->
         <br>
         Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
+      </div>
 </div>
 
 <br/>
