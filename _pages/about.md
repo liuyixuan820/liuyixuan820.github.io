@@ -59,7 +59,7 @@ Casually, I go by Henry.<br/><br/>
       </div>
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:50px; height:auto; float:left; margin-right:10px;">
       <a href="https://research.ibm.com/">IBM Research</a>, Yorktown Heights, NY</strong>, Summer 2024
-      <be>
+      <br>
       Hosts: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>, Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a>, Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
 </div>
 
