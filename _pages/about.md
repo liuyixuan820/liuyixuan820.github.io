@@ -34,25 +34,31 @@ Casually, I go by Henry.<br/><br/>
 
 <div class="education">
   <h2>Education</h2>
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:200px; height:auto; float:left; margin-right:0px;">
-      <div class="education-title">
-        <strong>&bull; Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 &ndash; Present
+    <div class="education-entry">
+      <div class="education-info">
+        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo">
+        <div class="education-details">
+          <strong>Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 – Present
+          <br>
+          <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
+          <br>
+          Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
+        </div>
       </div>
-      <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
-      <br>
-      Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
+    </div>
       
-      <br>
-      
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:200px; height:auto; float:left; margin-right:0px;">
-      <div class="education-title">
-        <strong>&bull; B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
+    <div class="education-entry">
+      <div class="education-info">
+        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo">
+        <div class="education-details">
+          <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 – 2021
+          <br>
+          <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
+          <br>
+          Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
+        </div>
       </div>
-      <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
-      <!---- <br>
-      Advisors: Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>-->
-      <br>
-  Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
+    </div>
 </div>
 
 <br/>
@@ -91,5 +97,26 @@ Casually, I go by Henry.<br/><br/>
   }
   .education-title:nth-of-type(2) {
   margin-top: 10px; /* or adjust the value to your desired distance */
+  }
+
+  .education-entry {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+  .education-info {
+    display: flex;
+    align-items: center;
+    width: 70%; /* Adjust as needed */
+  }
+
+  .education-info img {
+    width: 30%; /* Adjust as needed */
+    height: auto;
+    margin-right: 20px;
+  }
+
+  .education-details {
+    flex: 1;
   }
 </style>
