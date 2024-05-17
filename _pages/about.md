@@ -114,6 +114,7 @@ Casually, I go by Henry.<br/><br/>
     width: 30%; /* Adjust as needed */
     height: auto;
     margin-right: 20px;
+    align-items: center;
   }
 
   .education-details {
