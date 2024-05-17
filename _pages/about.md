@@ -42,8 +42,6 @@ Casually, I go by Henry.<br/><br/>
       <br>
       Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
 
-      <br>
-      
       <div class="education-title">
         <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:100px; height:auto; float:left; margin-right:10px;">
         <strong>&bull; B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
@@ -52,7 +50,7 @@ Casually, I go by Henry.<br/><br/>
       <!---- <br>
       Advisors: Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>-->
       <br>
-  Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
+      Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
 </div>
 
 <br/>
