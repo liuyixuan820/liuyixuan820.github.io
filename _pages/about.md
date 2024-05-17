@@ -35,14 +35,16 @@ Casually, I go by Henry.<br/><br/>
 <div class="education">
   <h2>Education</h2>
       <div class="education-title">
-        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:50px; height:auto; float:left; margin-right:10px;">
+        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:200px; height:auto; float:left; margin-right:0px;">
+        <br>
         <strong>&bull; Ph.D. in Computational Linguistics (Minor in Computer Science)</strong>, 2021 &ndash; Present
       </div>
       <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
       <br>
       Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
       <div class="education-title">
-        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:50px; height:auto; float:left; margin-right:10px;">
+        <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:200px; height:auto; float:left; margin-right:0px;">
+        <br>
         <strong>&bull; B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
       </div>
       <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
@@ -58,7 +60,7 @@ Casually, I go by Henry.<br/><br/>
   <h2>Industry Experience</h2>
       <div class="education-title">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:50px; height:auto; float:left; margin-right:10px;">
-        <strong>&bull; Research Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Yorktown Heights, NY, Summer 2024
+        <strong>Research Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Yorktown Heights, NY, Summer 2024
       </div>
       Hosts: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>, Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a>, Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
 </div>
