@@ -17,12 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 <blockquote style="display: inline-block; margin: 0; padding: 10px; background-color: #ecf0f1; font-style: italic; font-size: 1.1em;"><strong><em>Arrogance is a sign of ignorance.</em></strong></blockquote>
 
-I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, where I'm blessed to be advised by Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>. The ambition of my research is to <strong>build emotionally intelligent AI systems in a broader social context</strong>. I am part of the <a href="https://www.nlp.utexas.edu/">UT Austin NLP community</a>, and am currently leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;)
-
+I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>, where I'm blessed to be advised by Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>. The ambition of my research is to <strong>build emotionally intelligent AI systems in a broader social context</strong>. You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf).<!---- I am part of the <a href="https://www.nlp.utexas.edu/">UT Austin NLP community</a>, and am currently leading the <a href="https://honglizhan.github.io/NLL/">UT Austin Natural Language Learning Reading Group</a>. If you have a paper you're interested in reading, feel free to share it with me, and we can discuss it at the bi-weekly meeting together ;) -->
 
 <!---- <a href="https://asol.ling.utexas.edu/">Associated Students of Linguistics</a> I received my B.A. in English (Linguistics) as an outstanding graduate from <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a> in 2021. During my undergraduate studies there, I was very fortunate to be guided academically by wonderful professors including Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1814">Xinchao Guan</a>, Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1774">Zhenhua Wang</a>, and Professor <a href="https://sfl.sjtu.edu.cn/Data/View/1931">Fengchao Zhen</a>.
-
-You can find my CV [here](https://honglizhan.github.io/assets/pdf/CV.pdf).-->
 
 My CV is linked [here](https://honglizhan.github.io/assets/pdf/CV.pdf). Media coverage of my research can be found [here](https://honglizhan.github.io/media_coverage/). The profile photo was taken at the presentation of my first-ever paper, which was accepted to EMNLP 2022.
 
@@ -70,7 +67,7 @@ Casually, I go by Henry.<br/><br/>
   </div>
 </div>
 
-
+<!---- 
 <br/>
 
 <div class="education">
@@ -79,7 +76,7 @@ Casually, I go by Henry.<br/><br/>
     <br>
     &ensp;&ensp;&ensp;&ensp;In follow-up work <a href="https://aclanthology.org/2023.findings-emnlp.962/">(Zhan et al., EMNLP 2023 Findings)</a>, we found that state-of-the-art LLMs were on par with (and in some cases better than) lay people in uncovering the implicit cognitive information for emotional understanding. Having established such cognitive capabilities, we can subsequently zoom in on the specific negative appraisals which lead to negative emotions, and try to change them by offering targeted reappraisals. Based on the cognitive appraisal theories of emotions, this provides a precise, principled way to help regulate someone's emotions. In our most recent work <a href="https://arxiv.org/abs/2404.01288">(Zhan et al., 2024)</a>, we dived into instilling such cognitive reappraisal abilities into LLMs. Our extensive expert evaluations (with practicing psychologists holding advanced degrees) revealed that even LLMs at smaller scales (e.g., 7 billion) can generate cognitive reappraisals that significantly outperform human-written ones if we guide them with psychologically-informed instructions. These findings underscore the potential of AI systems for emotional support and mental well-being.
 </div>
-
+-->
 
 <style>
   .education-title {
