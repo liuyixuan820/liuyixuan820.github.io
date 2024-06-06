@@ -67,7 +67,6 @@ Casually, I go by Henry.<br/><br/>
   </div>
 </div>
 
-<!---- 
 <br/>
 
 <div class="education">
@@ -76,7 +75,7 @@ Casually, I go by Henry.<br/><br/>
     <br>
     &ensp;&ensp;&ensp;&ensp;In follow-up work <a href="https://aclanthology.org/2023.findings-emnlp.962/">(Zhan et al., EMNLP 2023 Findings)</a>, we found that state-of-the-art LLMs were on par with (and in some cases better than) lay people in uncovering the implicit cognitive information for emotional understanding. Having established such cognitive capabilities, we can subsequently zoom in on the specific negative appraisals which lead to negative emotions, and try to change them by offering targeted reappraisals. Based on the cognitive appraisal theories of emotions, this provides a precise, principled way to help regulate someone's emotions. In our most recent work <a href="https://arxiv.org/abs/2404.01288">(Zhan et al., 2024)</a>, we dived into instilling such cognitive reappraisal abilities into LLMs. Our extensive expert evaluations (with practicing psychologists holding advanced degrees) revealed that even LLMs at smaller scales (e.g., 7 billion) can generate cognitive reappraisals that significantly outperform human-written ones if we guide them with psychologically-informed instructions. These findings underscore the potential of AI systems for emotional support and mental well-being.
 </div>
--->
+
 
 <style>
   .education-title {
