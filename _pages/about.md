@@ -50,7 +50,9 @@ I am a 3rd year Ph.D. student in Computational Linguistics at <a href="https://w
   <div class="experience-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:80px; height:auto; margin-right:20px;">
     <div>
-      <strong>Research Scientist Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Yorktown Heights, NY, Summer 2024
+      <strong>Research Scientist Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>
+      <br>
+      Yorktown Heights, NY, Summer 2024
       <br>
       Hosts: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>, Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a>, Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
     </div>
