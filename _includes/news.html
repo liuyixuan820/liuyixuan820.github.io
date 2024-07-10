@@ -6,8 +6,8 @@
       {% assign news = site.news | reverse %}
       {% for item in news limit: site.news_limit %}
         <tr>
-          <th scope="row" class="news-date">{{ item.date | date: "%b %-d, %Y" }}</th>
-          <td>
+          <th scope="row" style="width: 30%;">{{ item.date | date: "%b %-d, %Y" }}</th>
+          <td style="width: 70%;">
             {% if item.inline %}
               {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
             {% else %}
@@ -22,16 +22,3 @@
     <p>No news so far...</p>
   {% endif %}
 </div>
-
-<style>
-  .news-table {
-    table-layout: fixed;
-    width: 100%;
-  }
-  .news-table .news-date {
-    width: 40%;
-  }
-  .news-table td {
-    width: 60%;
-  }
-</style>
