@@ -2,7 +2,7 @@
 layout: post
 title: I received my bachelor's degree as an outstanding graduate from SJTU!
 date: 2021-06-26 15:59:00-0400
-inline: true
+inline: false
 ---
 
 Photo taken at the Shanghai Jiao Tong University commencement ceremony for undergraduate students (class of 2021).
