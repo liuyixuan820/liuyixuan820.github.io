@@ -23,10 +23,15 @@
   {% endif %}
 </div>
 
-.news-table .news-date {
-  width: 30%; /* Adjust this percentage as needed */
-  white-space: nowrap; /* Prevents wrapping of the date text */
-}
-.news-table td {
-  width: 70%; /* Adjust this percentage as needed */
-}
+<style>
+  .news-table {
+    table-layout: fixed;
+    width: 100%;
+  }
+  .news-table .news-date {
+    width: 30%;
+  }
+  .news-table td {
+    width: 70%;
+  }
+</style>
