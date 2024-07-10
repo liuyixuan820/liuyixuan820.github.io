@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :mortar_board: I received my bachelor's degree as an outstanding graduate from SJTU!
+title: I received my bachelor's degree as an outstanding graduate from SJTU!
 date: 2021-06-26 15:59:00-0400
 inline: false
 ---
