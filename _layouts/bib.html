@@ -131,7 +131,7 @@
             {%- capture entryyear -%}{{ " " }}{{entry.year}}.{%- endcapture -%}
           {%- endif -%}
           {%- if entry.note -%}
-            {%- capture entrynote -%}{{ " " }}[<span style="color: blue; text-decoration: underline;">{{entry.note}}</span>]{%- endcapture -%}
+            {%- capture entrynote -%}{{ " " }}<span style="color: blue;"></span>[<span style="text-decoration: underline;">{{entry.note}}</span>]</span>{%- endcapture -%}
           {% else %}
             {%- capture entrynote -%}{%- endcapture -%}
           {%- endif -%}
