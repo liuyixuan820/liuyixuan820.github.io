@@ -28,7 +28,7 @@ I am a 4th year Ph.D. student in Computational Linguistics at <a href="https://w
         <br>
         <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
         <br>
-        &bull; Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
+        <p style="font-size: 20px;">&bull;</p> Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
       </div>
     </div>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
@@ -38,7 +38,7 @@ I am a 4th year Ph.D. student in Computational Linguistics at <a href="https://w
         <br>
         <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
         <br>
-        &bull; Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
+        <p style="font-size: 20px;">&bull;</p> Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
       </div>
     </div>
 </div>
@@ -54,9 +54,9 @@ I am a 4th year Ph.D. student in Computational Linguistics at <a href="https://w
       <br>
       Yorktown Heights, NY; Summer 2024
       <br>
-      &bull; Hosted by the Responsible and Inclusive Technologies Research Group
+      <p style="font-size: 20px;">&bull;</p> Hosted by the Responsible and Inclusive Technologies Research Group
       <br>
-      &bull; Manager: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>; Mentors: Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a> & Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
+      <p style="font-size: 20px;">&bull;</p> Manager: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>; Mentors: Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a> & Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
     </div>
   </div>
 </div>
