@@ -54,9 +54,9 @@ I am a 4th year Ph.D. student in Computational Linguistics at <a href="https://w
       <br>
       Yorktown Heights, NY; Summer 2024
       <br>
-      * Hosted by the Responsible and Inclusive Technologies Research Group
+      &bull; Hosted by the Responsible and Inclusive Technologies Research Group
       <br>
-      * Manager: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>; Mentors: Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a> & Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
+      &bull; Manager: Dr. <a href="https://www.linkedin.com/in/raya-horesh/">Raya Horesh</a>; Mentors: Dr. <a href="https://www.linkedin.com/in/muneeza-azmat-b4702851">Muneeza Azmat</a> & Dr. <a href="https://moonfolk.github.io/">Mikhail Yurochkin</a>
     </div>
   </div>
 </div>
