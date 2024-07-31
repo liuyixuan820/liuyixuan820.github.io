@@ -61,7 +61,7 @@ I am a 4th year Ph.D. student in Computational Linguistics at <a href="https://w
   </div>
 </div>
 
-<!---- 
+<!----
 <br/>
 
 <div class="education">
