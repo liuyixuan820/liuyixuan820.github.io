@@ -50,9 +50,9 @@ I am a 4th year Ph.D. student in Computational Linguistics at <a href="https://w
   <div class="experience-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" style="width:80px; height:auto; margin-right:20px;">
     <div>
-      <strong>Research Scientist Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>
+      <strong>Research Scientist Intern, <a href="https://research.ibm.com/">IBM Research</a></strong>, Summer 2024
       <br>
-      Yorktown Heights, NY; Summer 2024
+      IBM Thomas J. Watson Research Center, Yorktown Heights, NY
       <br>
       &#8259; Hosted by the Responsible and Inclusive Technologies Research Group
       <br>
