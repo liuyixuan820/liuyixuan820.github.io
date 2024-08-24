@@ -42,7 +42,7 @@ I am a 3rd year Ph.D. student in Department of Communication at <a href="https:/
       </div>
     </div>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:80px; height:auto; margin-right:20px;">
+      <img src="https://github.com/liuyixuan820/liuyixuan820.github.io/blob/master/assets/img/BNU_logo.svg" alt="UT Austin Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
         <strong>B.A. in Education & B.A. in Communication </strong>, 2015 &ndash; 2019
         <br>
