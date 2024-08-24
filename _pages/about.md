@@ -38,7 +38,7 @@ I am a 3th year Ph.D. student in Department of Communication at <a href="https:/
         <br>
         <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
         <br>
-        &#8259; Award: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">China National Scholarship</a>
+        &#8259; Award: China National Scholarship
       </div>
     </div>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
