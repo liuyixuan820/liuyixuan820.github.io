@@ -28,19 +28,28 @@ I am a 3th year Ph.D. student in Department of Communication at <a href="https:/
         <br>
         <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
         <br>
-        &#CC5500; Advisor: Professor <a href="https://dawnaballard.com/">Dawna Ballard</a>
+        &#8259; Advisor: Professor <a href="https://dawnaballard.com/">Dawna Ballard</a>
       </div>
     </div>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
       <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
-        <strong>Master in Journalism and Communication</strong>, 2017 &ndash; 2021
+        <strong>M.A. in Journalism and Communication</strong>, 2019 &ndash; 2022
         <br>
         <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
         <br>
-        &#8259; Awards: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">Outstanding Undergraduate</a>; Outstanding Undergraduate Thesis Award
+        &#8259; Award: <a href="https://sfl.sjtu.edu.cn/Data/View/5045">China National Scholarship</a>
       </div>
     </div>
+    <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
+      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:80px; height:auto; margin-right:20px;">
+      <div>
+        <strong>B.A. in Education & B.A. in Communication </strong>, 2015 &ndash; 2019
+        <br>
+        <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>
+        <br>
+        &#8259; Awards: Outstanding undergraduate thesis; <i>Jingshi</i> Academic Scholarship
+      </div>
 </div>
 
 
