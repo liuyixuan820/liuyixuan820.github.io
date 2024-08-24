@@ -15,7 +15,7 @@ news: false # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
 
-<blockquote style="display: inline-block; margin: 0; padding: 10px; background-color: #ecf0f1; font-style: italic; font-size: 1.1em;"><strong><em>Arrogance is a sign of ignorance.</em></strong></blockquote>
+
 
 I am a 3th year Ph.D. student in Department of Communication at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>. I am advised by Professor <a href="https://dawnaballard.com/">Dawna Ballard</a>. In my research projects, I study time and technologies in the workplace. I seek to highlight the gendered labor that is often overlooked.
 
