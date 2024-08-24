@@ -24,17 +24,17 @@ I am a 3th year Ph.D. student in Department of Communication at <a href="https:/
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
       <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
-        <strong>Ph.D. in Communication Studies</strong>, 2021 &ndash; Present
+        <strong>Ph.D. in Communication Studies</strong>, 2022 &ndash; Present
         <br>
         <a href="https://www.utexas.edu/">The University of Texas at Austin</a>
         <br>
-        &#8259; Advisor: Professor <a href="https://jessyli.com/">Junyi Jessy Li</a>
+        &#CC5500; Advisor: Professor <a href="https://dawnaballard.com/">Dawna Ballard</a>
       </div>
     </div>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
       <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
-        <strong>B.A. in English Linguistics (Second Major in Law)</strong>, 2017 &ndash; 2021
+        <strong>Master in Journalism and Communication</strong>, 2017 &ndash; 2021
         <br>
         <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
         <br>
