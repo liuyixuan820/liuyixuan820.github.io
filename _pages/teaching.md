@@ -24,5 +24,13 @@ What Students Say about My Class CMS306M: Professional Communication Skills?
 <div>
 <br>
 <div>
-<blockquote style="display: inline-block; margin: 0; padding: 10px; background-color: #ecf0f1; font-style: italic; font-size: 1.1em;"><strong><em>"She created an atmosphere where people could feel comfortable talking in front of others, and you could tell that she really wanted everyone to improve in their public speaking skills."</em></strong></blockquote>
+<blockquote style="display: inline-block; margin: 0; padding: 10px; background-color: #ecf0f1; font-style: italic; font-size: 1.1em;"><strong><em>"Yixuan was very clear about her expectations for the assignments and the course overall, and was also very encouraging. She created an atmosphere where people could feel comfortable talking in front of others, and you could tell that she really wanted everyone to improve in their public speaking skills."</em></strong></blockquote>
+<div>
+<br>
+<div>
+<blockquote style="display: inline-block; margin: 0; padding: 10px; background-color: #ecf0f1; font-style: italic; font-size: 1.1em;"><strong><em>"She was enthusiastic about the coursework, kept us engaged in her presentations, and offered all the resources and information needed to succeed."</em></strong></blockquote>
+<div>
+<br>
+<div>
+<blockquote style="display: inline-block; margin: 0; padding: 10px; background-color: #ecf0f1; font-style: italic; font-size: 1.1em;"><strong><em>"I think the most effective thing I could have learned from this was to move on from social anxiety and being in front of the class speaking to an audience. I has difficulty in past years of my life moving and this class made it possible."</em></strong></blockquote>
 <div>
