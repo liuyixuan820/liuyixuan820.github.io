@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-I am a 3rd year Ph.D. student in the Department of Communication Studies at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>. I am advised by Dr. <a href="https://dawnaballard.com/">Dawna Ballard</a>. In my research projects, I study time and technologies in the workplace. I seek to highlight the gendered labor that is often overlooked.
+I am a Ph.D. candidate in the <a href="https://commstudies.utexas.edu/">Department of Communication Studies</a> at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>. I am advised by Dr. <a href="https://dawnaballard.com/">Dawna Ballard</a>. In my research projects, I study time and technologies in the workplace. I seek to highlight the gendered temporal labor that is often overlooked.
 
 <div class="education">
   <h2>Education</h2>
