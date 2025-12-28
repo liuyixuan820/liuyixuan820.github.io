@@ -44,7 +44,7 @@ I am a Ph.D. candidate in the <a href="https://commstudies.utexas.edu/">Departme
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
       <img src="https://raw.githubusercontent.com/liuyixuan820/liuyixuan820.github.io/master/assets/img/logos/bnu.svg" alt="BNU Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
-        <strong>B.A. in Education & B.A. in Communication </strong>, 2015 &ndash; 2019
+        <strong>B.A. in Education & B.A. in Communication</strong>, 2015 &ndash; 2019
         <br>
         <a href="https://english.bnu.edu.cn/">Beijing Normal University</a>
         <br>
