@@ -17,12 +17,12 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-I am a 3rd year Ph.D. student in the Department of Communication Studies at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>. I am advised by Dr. <a href="https://dawnaballard.com/">Dawna Ballard</a>. In my research projects, I study time and technologies in the workplace. I seek to highlight the gendered labor that is often overlooked.
+I am a Ph.D. candidate in the <a href="https://commstudies.utexas.edu/">Department of Communication Studies</a> at <a href="https://www.utexas.edu/">The University of Texas at Austin</a>. I am advised by Dr. <a href="https://dawnaballard.com/">Dawna Ballard</a>. In my research projects, I study time and technologies in the workplace. I also seek to highlight the gendered temporal labor that is often overlooked.
 
 <div class="education">
   <h2>Education</h2>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/University_of_Texas_at_Austin_logo.svg" alt="UT Austin Logo" style="width:80px; height:auto; margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/liuyixuan820/liuyixuan820.github.io/master/assets/img/logos/ut.svg" alt="UT Austin Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
         <strong>Ph.D. in Communication Studies</strong>, 2022 &ndash; Present
         <br>
@@ -32,7 +32,7 @@ I am a 3rd year Ph.D. student in the Department of Communication Studies at <a h
       </div>
     </div>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-      <img src="https://raw.githubusercontent.com/honglizhan/honglizhan.github.io/master/assets/img/sjtu_banner_red.svg" alt="SJTU Logo" style="width:80px; height:auto; margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/liuyixuan820/liuyixuan820.github.io/master/assets/img/logos/sjtu.svg" alt="SJTU Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
         <strong>M.A. in Journalism and Communication</strong>, 2019 &ndash; 2022
         <br>
@@ -42,7 +42,7 @@ I am a 3rd year Ph.D. student in the Department of Communication Studies at <a h
       </div>
     </div>
     <div class="education-title" style="display: flex; align-items: flex-start; margin-top: 15px;">
-      <img src="https://raw.githubusercontent.com/liuyixuan820/liuyixuan820.github.io/master/assets/img/BNU_logo.svg" alt="BNU Logo" style="width:80px; height:auto; margin-right:20px;">
+      <img src="https://raw.githubusercontent.com/liuyixuan820/liuyixuan820.github.io/master/assets/img/logos/bnu.svg" alt="BNU Logo" style="width:80px; height:auto; margin-right:20px;">
       <div>
         <strong>B.A. in Education & B.A. in Communication </strong>, 2015 &ndash; 2019
         <br>
